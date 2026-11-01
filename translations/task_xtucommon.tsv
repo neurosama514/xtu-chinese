@@ -1,0 +1,370 @@
+0	v	 as uint while deserializing Xmp names
+1	v	 deleting existing file.
+2	v	 does not contain default constructor or default value
+3	v	 in the binary search paths.
+4	v	+12 ATX Power Voltage
+5	v	+12V ATX CPU Voltage
+6	v	+12V Rail
+7	v	+5V Backup
+8	v	+5V Rail
+9	v	-12V Rail
+10	v	-5V Rail
+11	v	1.5V Rail
+12	v	1.8V Rail
+13	v	2.5V Rail
+14	v	3.3V Rail
+15	v	3.3V Standby
+16	v	Active Core Count
+17	v	Active Efficient Core Count
+18	v	Active Extended Package Power Limit
+19	v	Active Performance Core Count
+20	v	Active Short Package Power Limit
+21	v	An error occurred while querying for WMI data.
+22	v	applying values
+23	v	Assembly passed to TableReader ReadItems was null
+24	v	Aux Cooling Fan
+25	v	AUX Fan Speed
+26	v	AVX-512 Guard band Scale Factor
+27	v	AVX-512 Guardband Scale Factor
+28	v	AVX-512 Guardband Scale Factor Floor
+29	v	AVX-512 Negative Core Ratio Offset
+30	v	AVX2 Guard band Scale Factor
+31	v	AVX2 Guardband Scale Factor
+32	v	AVX2 Guardband Scale Factor Floor
+33	v	AVX2 Negative Core Ratio Offset
+34	v	Basic Tuning Efficient Cores Ratio
+35	v	Battery Fan Speed
+36	v	Battery Temperature
+37	v	Battery Voltage
+38	v	BIOS ISO Support
+39	v	BiosMailboxFields Initialized
+40	v	Byte overflow
+41	v	Cache Voltage
+42	v	Chasis Cooling Fan
+43	v	Chasis Inlet Fan
+44	v	Chasis Outlet Fan
+45	v	Chassis Cooling Fan Speed
+46	v	Chassis Inlet Fan Speed
+47	v	Chassis Outlet Fan Speed
+48	v	Close handle failed for Privileges
+49	v	Config TDP Ratio
+50	v	configuration parameter must not be null
+51	v	Control is disabled
+52	v	Control is read-only
+53	v	Control unavailable
+54	v	Core Current Limit Management Disable
+55	v	Core TDP
+56	v	CORE_THREAD_COUNT: Core Count (RO)
+57	v	Could not find 
+58	v	Could not find a property with the name 
+59	v	Couldn't find access token for thread. Impersonating thread to acquire token.
+60	v	CPU Cooling Fan
+61	v	CPU Core Temperature
+62	v	CPU Die Temperature
+63	v	CPU Fan Speed
+64	v	CPU Info was null
+65	v	CPU Inlet Temperature
+66	v	CPU IO Voltage
+67	v	CPU PLL Voltage
+68	v	CPU Real time Reference Clock Frequency
+69	v	CPU Throttle Percent
+70	v	CPU Utilization
+71	v	CPU Voltage
+72	v	Current Throttle Percent
+73	v	Deserializing File: 
+74	v	DIMM Temperature
+75	v	Disable FIVR Efficiency Management
+76	v	Disable FIVR Faults
+77	v	Disabling the system sleep time-out.
+78	v	discarding proposed values
+79	v	Drive Cooling Fan
+80	v	Dynamic SVID Control
+81	v	EDRAM Frequency
+82	v	Edram Frequency
+83	v	Efficient Cores Cache Voltage Mode
+84	v	Efficient Cores Cache Voltage Offset
+85	v	Efficient Cores Cache Voltage Offset Floor
+86	v	Efficient Cores Cache Voltage Offset Supported
+87	v	Efficient Cores Cache Voltage Override
+88	v	Efficient Cores Cache Voltage Override Supported
+89	v	Efficient Cores Cache Voltage Target
+90	v	Efficient Cores Cache Voltage Target Floor
+91	v	Efficient Cores Cache Voltage Target Mode
+92	v	Empty path passed to DeserializeFile
+93	v	Encountered exception during GetDriverPath
+94	v	Error during power management event handling
+95	v	eTVB Disable
+96	v	Exception encountered during Access Rule Removal for XTU Data Directory
+97	v	Exception encountered during Access Rule Removal for XTU Telemetry Directory
+98	v	Exception encountered during logging initialization
+99	v	Exception encountered during LogImmediate call
+100	v	Exception in EndAppRestartOnOsLoad : 
+101	v	Exception in LogBase : 
+102	v	Exception in TryControlNameToId : 
+103	v	Exception occurred creating restart task in task scheduler
+104	v	Exception occurred during file deserialization
+105	v	Exception serialize to filepath: 
+106	v	Exception serializing object to xml
+107	v	Exception thrown while attempting to bring window into foreground
+108	v	Exception thrown while starting foreground app watcher
+109	v	Exception while Retrieving XTU Logging Status
+110	v	External Real time Reference Clock Frequency
+111	v	External VR Throttle Percent
+112	v	Failed to deserialize settings in file 
+113	v	Failed to get mutex 
+114	v	Failed to parse 
+115	v	Failed to release 
+116	v	Failure during privilege elevation.
+117	v	First buffer was null
+118	v	FIVR Efficiency Management Enable
+119	v	FIVR Fault Enable
+120	v	FLEX_RATIO: Number of overclocking bins supported (RO)
+121	v	Fused 1C Efficient Core Turbo Frequency
+122	v	Fused 1C Turbo Frequency
+123	v	Fused Max Core Ratio
+124	v	Get driver path called for guid: 
+125	v	Got a null value to copy to SerializableSPDSlot.
+126	v	GPU Coooling Fan
+127	v	GPU Fan Speed
+128	v	GPU Temperature
+129	v	Graphics Core Fused Max OC Ratio Limit
+130	v	Graphics Core Max OC Ratio
+131	v	Graphics Core Ratio OC Supported
+132	v	Graphics Core Voltage Mode
+133	v	Graphics Core Voltage Offset
+134	v	Graphics Core Voltage Offset Floor
+135	v	Graphics Core Voltage Offset Supported
+136	v	Graphics Core Voltage Override
+137	v	Graphics Core Voltage Override Supported
+138	v	Graphics Core Voltage Target
+139	v	Graphics Core Voltage Target Floor
+140	v	Graphics Core Voltage Target Mode
+141	v	Graphics Frequency
+142	v	Graphics TDP
+143	v	Graphics Temperature
+144	v	Graphics Unslice Max OC Ratio
+145	v	Graphics Unslice Voltage Offset
+146	v	Graphics Unslice Voltage Offset Floor
+147	v	Graphics Unslice Voltage Target
+148	v	Graphics Unslice Voltage Target Floor
+149	v	Graphics Unslice Voltage Target Mode
+150	v	Graphics Voltage
+151	v	Hard Drive Fan Speed
+152	v	Hard Drive Temperature
+153	v	HardLink found at: 
+154	v	IA Core Fused Max OC Ratio Limit
+155	v	IA Core Max OC Ratio
+156	v	IA Core Ratio OC Supported
+157	v	IA Core Voltage Mode
+158	v	IA Core Voltage Offset
+159	v	IA Core Voltage Offset Supported
+160	v	IA Core Voltage Override Supported
+161	v	IA Core Voltage Target
+162	v	IA Core Voltage Target Mode
+163	v	IA32_MISC_ENABLES: EIST Mode Enabled (RO)
+164	v	IA32_PERF_CTL: P-STATE TARGET (RW)
+165	v	IA32_PERF_STS: P-STATE RATIO (RO)
+166	v	IA32_PERF_STS: P-STATE VOLTAGE (RO)
+167	v	IA32_PLATFORM_ID: Platform ID (RO)
+168	v	IA32_TEMPERATURE_TARGET: TCC Activation Temperature (RO)
+169	v	IA32_THERM_STATUS (RO)
+170	v	ICH Temperature
+171	v	InitializeMsrFields called
+172	v	Initializing BiosMailboxFields
+173	v	Initializing MailboxFields
+174	v	Input assembly to tableReader was null
+175	v	Input data buffer was null
+176	v	Input serialization string was null
+177	v	Intel Extreme Tuning Utility
+178	v	Intel Telemetry
+179	v	Intel(R) Extreme Tuning Utility
+180	v	Intel(R) Overclocking Thermal Velocity Boost
+181	v	Intel® Extreme Tuning Utility
+182	v	Internal Real time Reference Clock Frequency
+183	v	Invalid path passed to DeserializeFile: 
+184	v	Invalid Value
+185	v	IOH Cooling Fan
+186	v	IOH Cooling Fan Speed
+187	v	IOH Temperature
+188	v	Item to serialize was null
+189	v	libraryList parameter must not be null
+190	v	LOADER EXCEPTION:
+191	v	LookupPrivilegeValue failed
+192	v	MailboxFields Initialized
+193	v	Max Efficient Core Frequency
+194	v	Max Performance Core Frequency
+195	v	Maximum Efficiency Ratio (RO)
+196	v	MCH Cooling Fan
+197	v	MCH Fan Speed
+198	v	MCH Temperature
+199	v	MCH Voltage
+200	v	Memory Channel AB Voltage
+201	v	Memory Channel CD Voltage
+202	v	Memory Cooling Fan
+203	v	Memory Cooling Fan Speed
+204	v	Memory Speed
+205	v	Memory Temperature
+206	v	Memory Utilization
+207	v	Microcontroller Frequency
+208	v	Monitor Logs
+209	v	Motherboard Ambient Temperature
+210	v	NAND Bus Frequency
+211	v	Notification: System entering suspend
+212	v	Notification: System is being shut down
+213	v	Notification: System resuming from suspend
+214	v	Number of DDR Channels
+215	v	obj must not be auto layout
+216	v	OC Package Current Limit Management Active And TRL Unlock
+217	v	Only fields and properties are supported
+218	v	Opening registry path returned null
+219	v	Operation requires administrative permissions
+220	v	Optical Disk Drive Temperature
+221	v	Overclocking Enable
+222	v	Package Current Limit
+223	v	Package TDP
+224	v	PACKAGE_ENERGY_STATUS: PACKAGE_ENERGY_COUNTER (RO)
+225	v	PACKAGE_POWER_SKU: PACKAGE_MAX_POWER (RO)
+226	v	PACKAGE_POWER_SKU: PACKAGE_MAX_TIME (RO)
+227	v	PACKAGE_POWER_SKU: PACKAGE_MIN_POWER (RO)
+228	v	PACKAGE_POWER_SKU_UNIT: ENERGY_UNIT (RO)
+229	v	PACKAGE_POWER_SKU_UNIT: POWER_UNIT (RO)
+230	v	PACKAGE_POWER_SKU_UNIT: TIME_UNIT (RO)
+231	v	PCH Cooling Fan
+232	v	PCH Fan Speed
+233	v	PCH Temperature
+234	v	PCH Voltage
+235	v	PCMCIA Slot Temperature
+236	v	Per Thread CPU Utilization
+237	v	Per-Core Disable Mask
+238	v	PerCore Voltage Enable
+239	v	PLATFORM_INFO: Max Non-Turbo Ratio (RO)
+240	v	PLATFORM_INFO: Number of Config TDP levels (RO)
+241	v	PLATFORM_INFO: Power Limit Enable (RO)
+242	v	PLATFORM_INFO: Programmable Ratio Limits for Turbo Mode (RO)
+243	v	PLATFORM_INFO: Programmable TCC Activation Offset (RO)
+244	v	PLATFORM_INFO: Sample (RO)
+245	v	PLATFORM_INFO[EDRAM_ENABLE] MSR
+246	v	PMAX Throttle Percent
+247	v	Power Supply Cooling Fan
+248	v	Power Supply Fan Speed
+249	v	Power Supply Hot Spot Temperature
+250	v	Power Supply Inlet Fan
+251	v	Power Supply Inlet Fan Speed
+252	v	Power Supply Inlet Temperature
+253	v	Power Supply Inlet Voltage
+254	v	Power Supply Outlet Fan
+255	v	Power Supply Outlet Fan Speed
+256	v	Power Supply Outlet Temperature
+257	v	Power Supply Temperature
+258	v	Power Throttle Percent
+259	v	PRIMARY_PLANE_ENERGY_STARTUS: PRI_ENERGY_COUNTER (RO)
+260	v	Privilege check failed for token handle
+261	v	Processor Core Icc Max
+262	v	Processor Core IccMax SVID Enabled
+263	v	Processor Core Ratio
+264	v	Processor Graphics IccMax 
+265	v	Processor Graphics IccMax SVID Enabled
+266	v	Processor Graphics Media
+267	v	Processor Graphics Slice Icc Max
+268	v	Processor Graphics Slice IccMax 
+269	v	Processor Graphics Slice IccMax SVID Enabled
+270	v	Processor Graphics UnSlice Icc Max
+271	v	Processor Graphics Unslice IccMax SVID Enabled
+272	v	Processor Graphics Unslice Ratio Limit
+273	v	Processor Graphics Unslice Voltage Offset
+274	v	Processor Graphics Unslice Voltage Override
+275	v	Processor Grapics Unslice Voltage Mode
+276	v	Processor Ring Cache Icc Max
+277	v	Processor RingCache IccMax SVID Enabled
+278	v	proposing values
+279	v	Provided nativeMethods must not be null
+280	v	Re-enabling the system sleep time-out.
+281	v	Reference Clock Frequency
+282	v	Reference Clock Ratio
+283	v	refreshing from hardware
+284	v	Registry key root must not be null
+285	v	restoring tuning values at boot
+286	v	restoring tuning values on system wake
+287	v	Ring Fused Max OC Ratio Limit
+288	v	Ring Fused Voltage Target
+289	v	Ring Max OC Ratio
+290	v	Ring Ratio
+291	v	Ring Ratio OC Supported
+292	v	Ring to Core Offset Disable
+293	v	Ring Voltage Mode
+294	v	Ring Voltage Offset
+295	v	Ring Voltage Offset Floor
+296	v	Ring Voltage Offset Supported
+297	v	Ring Voltage Override
+298	v	Ring Voltage Override Supported
+299	v	Ring Voltage Target
+300	v	Ring Voltage Target Floor
+301	v	Ring Voltage Target Mode
+302	v	running a VF Curve Scan
+303	v	SAGV Point 0
+304	v	SAGV Point 1
+305	v	SAGV Point 2
+306	v	SAGV Point 3
+307	v	SDRAM Voltage
+308	v	Second buffer was null
+309	v	SECONDARY_PLANE_ENERGY_STATUS: SECD_ENERGY_COUNTER (RO)
+310	v	Security Administrative Privilege Assertion Failed
+311	v	Serialized XMP Profile names were invalid 
+312	v	Skin Temperature
+313	v	SPECIAL-Performance Control Boundary Indicator
+314	v	SPECIAL-Write Op End Indicator
+315	v	SPECIAL-Write Op Start Indicator
+316	v	SSD Power Mode
+317	v	SVID Disable
+318	v	SVID Voltage Target
+319	v	System Agent Icc Max
+320	v	System Agent IccMax SVID Enabled
+321	v	System Agent Voltage
+322	v	System Agent Voltage Floor
+323	v	System Agent Voltage Mode
+324	v	System Agent Voltage Offset
+325	v	System Agent Voltage Offset Floor
+326	v	System Agent Voltage Offset Supported
+327	v	System Agent Voltage Override
+328	v	System Agent Voltage Supported
+329	v	System Agent Voltage Target Mode
+330	v	System already optimized
+331	v	System Ambient Temperature
+332	v	System busy. Please try again
+333	v	System Cooling Fan
+334	v	System Fan Speed
+335	v	System Inlet Temperature
+336	v	System Outlet Temperature
+337	v	TEMPERATURE_TARGET : Digital Read Out (RO)
+338	v	The VR Address provided is illegal
+339	v	Thermal Velocity Boost
+340	v	TMUL Negative Core Ratio Offset
+341	v	toggling Intel® Speed Optimizer
+342	v	Unable to locate driver path for guid: 
+343	v	Unable to open thread access token
+344	v	Unable to read the application executable directory path
+345	v	Uncore Frequency
+346	v	UNCORE_PERF_STATUS: Cache Voltage Monitor
+347	v	Undervolt Protection
+348	v	Unhandled exception encountered
+349	v	Unlimited Icc Max
+350	v	Vcc IN
+351	v	VCC_IO  Voltage Offset
+352	v	VCC_IO  Voltage Offset Supported
+353	v	VCC_IO  Voltage Override Supported
+354	v	VCC_IO  Voltage Target
+355	v	VCC_IO  Voltage Target Mode
+356	v	VCC_IO Voltage Mode
+357	v	VCC_IO Voltage Offset
+358	v	VCC_IO Voltage Override
+359	v	VccU Voltage Offset
+360	v	VccU Voltage Offset Supported
+361	v	Vmax Stress
+362	v	Vmax Stress Percent
+363	v	Voltage Regulator Fan Speed
+364	v	Voltage Regulator Temperature
+365	v	VR Cooling Fan
+366	v	VR PS4 Policy
+367	v	VR TDC Clipping
+368	v	wrapper must not be null
+369	v	XTU Restart

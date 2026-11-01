@@ -1,0 +1,10 @@
+work/
+build/
+dist/
+lib/
+vendor/*.exe
+vendor/*.msi
+__pycache__/
+*.pyc
+*.log
+*.user

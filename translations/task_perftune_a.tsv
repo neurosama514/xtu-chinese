@@ -1,0 +1,334 @@
+0	v	 AcProfile Name-
+1	v	 batteryProfile Name-
+2	v	 has been ignored.
+3	v	 Invalid File Format. All existing App-Profile Pairs have been removed.
+4	v	 is already paired with a hotkey.
+5	v	 is available.
+6	v	 is saved
+7	v	 Log file could not be generated for the application.
+8	v	 Profile Error
+9	v	 profile to 
+10	v	 service could not be contacted.
+11	v	 successfully, Overclocking Lock must be unlocked, and Enhanced Intel® SpeedStep Technology and Intel® Turbo Boost Technology must both be enabled. If you cannot adjust these values in Intel® XTU, you may be able to adjust them in BIOS.
+12	v	 XMP1 Channel 
+13	v	 XTU functionality except the 'Stress Test' tab. Would you like to proceed?
+14	v	!!!!!!!!!!!!!!! About window created !!!!!!!!!!!!!!
+15	v	,  Service version - 
+16	v	, Force restart is: 
+17	v	-------- START PROPOSED CHANGES -------------
+18	v	. For best Overclocking performance, please check Intel K- and X-series Processors.
+19	v	. If there is another performance tuning application running, you must close it before trying to start this application.
+20	v	] caught that should be handled by IErrorReporter.
+21	v	A profile with this name existing was located
+22	v	A symbolic link has been found at 
+23	v	About to close splash
+24	v	About to display splash screen
+25	v	Active and Default values for power and current settings are already at or above the optimized limits set by this tool.
+26	v	Active values
+27	v	Adding the App-Profile Pair failed.
+28	v	Adjust slots by: 
+29	v	Adjusting DAP size to available width
+30	v	Advanced Tuning
+31	v	After calling Update telemetry
+32	v	After Discard all proposed changes still exist
+33	v	AI Assist
+34	v	AI Assist Error
+35	v	AI Assist has encountered an error during characterization.
+36	v	AI Assist has encountered an error starting characterization.
+37	v	AI Inferencing
+38	v	AI Inferencing determines what values are best for your system to overclock. Final step!
+39	v	All of your ignored updates have been restored.
+40	v	allControls must not be null
+41	v	An error occurred
+42	v	An error occurred while 
+43	v	An error occurred while retrieving the profile for export.
+44	v	An error occurred while trying to export the Default profile.
+45	v	An error occurred while trying to export the profile to file: 
+46	v	An error occurred while trying to upload the profile.
+47	v	An exception occurred while trying to upload the profile.
+48	v	An instance of this application already exists - exiting.
+49	v	An instance of this application is running in another profile - exiting.
+50	v	An unexpected profile error occurred.
+51	v	Another application is currently tuning your system
+52	v	App run exception
+53	v	App version not supported by driver
+54	v	App-Profile Pairing
+55	v	App-Profile Pairing allows you to dynamically tune your system to optimize the performance of a set of applications.
+56	v	App-Profile successfully added: Process Name-
+57	v	App-Profile successfully removed: Process Name-
+58	v	App-Profile successfully updated: Process Name-
+59	v	Application already running
+60	v	Application On Startup event called
+61	v	Application was started in safe mode
+62	v	Apply and Scan
+63	v	Apply Changes
+64	v	Apply changes called, restart required is: 
+65	v	Applying this change requires a reboot, would you like to proceed?
+66	v	Are you sure you want to delete this profile? Deleting this profile will also delete all pairings associated with it.
+67	v	Are you sure you want to reset the monitors to defaults?
+68	v	Are you sure you want to reset the system graphs to defaults?
+69	v	Are you sure you want to reset the system table to defaults?
+70	v	Attempt to rename profile to itself
+71	v	Attempt to start a stress test with a 0 duration
+72	v	Attempt to stop service failed with exception: 
+73	v	Attempting to abort update thread...
+74	v	Attempting to abort VF Curve scan thread...
+75	v	Automatic Overclock
+76	v	Automatic Overclock failed. Manual Tuning is currently active.
+77	v	Automatic Overclock not supported.
+78	v	Bad Image Format
+79	v	Before calling Update telemetry
+80	v	Benchmark Completed
+81	v	Benchmark Failed
+82	v	Benchmark is Running
+83	v	Benchmark is running
+84	v	Benchmark score may not be valid since POWER PLAN has changed!
+85	v	Benchmark score may not be valid since POWER SOURCE has changed!
+86	v	Benchmark Started
+87	v	Benchmark Warning
+88	v	Benchmarking requires monitoring to be on in order to read frequency and temperature values. Please turn on monitoring to run benchmarks.
+89	v	BenchmarkingEcore Frequency
+90	v	BenchmarkingPcore Frequency
+91	v	Both APP and Hotkeys enabled in user state. This is not possible. APP will be enabled.
+92	v	Calling BeginGetResponse for the manifest file.
+93	v	Cancelling apply due to decline from watchdog warning window
+94	v	Cannot apply. No new values have been proposed.
+95	v	Cannot apply. One or more proposed values are in error.
+96	v	Cannot display partially overlapping slot masks.
+97	v	Cannot import file. Could not decrypt profile file as it might be corrupted.
+98	v	Cannot import file. File did not meet expected format, and might be corrupted.
+99	v	Cannot import file. Invalid file type selected, should be of '.xtu' type.
+100	v	Cannot import file. Profile file is invalid.
+101	v	Cannot import file. The file uses a reserved profile name.
+102	v	Cannot update process profile. Null or empty string provided.
+103	v	category must not be null
+104	v	categoryId must not be null or empty
+105	v	Checking for drivers
+106	v	Checking for updates...
+107	v	Checking update's compatibility.
+108	v	Clean Monitor Logs
+109	v	Click to automatically overclock your processor.
+110	v	Client version - 
+111	v	clientLibrary must not be null
+112	v	Compare Online.
+113	v	Console process found, using console settings
+114	v	control must not be null
+115	v	Control Name Lookup failed for id: 
+116	v	controlId must have valid controls
+117	v	controlId must not be null
+118	v	Controls Panel Loaded
+119	v	Could not find a PerfTuneService instance
+120	v	Could not find customized skin. Loading default Black Color Theme
+121	v	Could not find customized skin. Loading default Blue Color Theme
+122	v	Could not initialized control [
+123	v	Could not open link 
+124	v	Could not set Processor Core Ratios back to the state before VF Curve Scan. Use Manual Tuning to set them back to desired values.
+125	v	Could not transmit arguments to current instance
+126	v	Could not turn off Hotkey-Profile Pairing while tuning operations were still in process. Please try again.
+127	v	CPU frequency will be clipped if current exceeds this limit
+128	v	Create Restore Point returned null
+129	v	Creating Controls Panel
+130	v	Creating dap category: 
+131	v	Creating dap control for: 
+132	v	Creating Novice dap category: 
+133	v	Creating software updater with manifest url:
+134	v	Creating update thread
+135	v	Current service status: 
+136	v	Decrement Core Ratio
+137	v	Default Browser not set
+138	v	Default values can become invalid with Undervolt Protection enabled, if the value has been changed in BIOS or a reboot has occurred since the value was changed.
+139	v	DEFAULT WIDTH: 
+140	v	Defined ProcessorFamilies between OverClocking SDK and IronCity Common were not matching. Could not determine current processor.
+141	v	Delete Profile
+142	v	Deleting duplicate profile: 
+143	v	Deleting the App-Profile Pair failed.
+144	v	Discard Changes
+145	v	Discard Changes called
+146	v	Dispatcher cannot be null
+147	v	Dispatcher must not be null
+148	v	Displaying watchdog warning window
+149	v	Double click on XTU icon to open. Right click on icon to exit
+150	v	DTT installed on system
+151	v	Duplicate named profiles found
+152	v	Edit Hotkey-Profile Pairing
+153	v	Efficiency Core Tile 1
+154	v	Efficiency Core Tile 2
+155	v	Efficiency Core Tile 3
+156	v	Efficiency Core Tile 4
+157	v	Efficient Per-Core Tuning
+158	v	element must not be null
+159	v	Empty format string found for id: 
+160	v	Enable App-Profile Pairing
+161	v	Enabling App-Profile Pairing will disable 
+162	v	Enhanced Intel® SpeedStep Technology could not be enabled. Manually enable this control in Intel® XTU and try again.
+163	v	Entering response callback for manifest parser.
+164	v	Error finding and removing profile
+165	v	Error finding property name from expression
+166	v	Error locating XTU service
+167	v	Error occurred creating profile
+168	v	Error proposing profile 
+169	v	Error starting service
+170	v	Error waiting for service to complete stopping
+171	v	Error waiting for service to start
+172	v	Error while monitoring power plan: 
+173	v	Eula path is : 
+174	v	Exception around running single instance manager
+175	v	Exception caught resorting controls
+176	v	Exception caught while ManifestParser was getting the response stream - 
+177	v	Exception caught while ManifestParser was performing web download - 
+178	v	Exception caught while ManifestParser was processing manifest document - 
+179	v	Exception caught while ManifestParser was reading - 
+180	v	Exception cocurred sorting list
+181	v	Exception getting date of last time XTU was up to date
+182	v	Exception getting ignored updated version info
+183	v	Exception getting software update suppression info
+184	v	Exception getting trend max state order
+185	v	Exception in Activate : 
+186	v	Exception in ConnectToService : 
+187	v	Exception in ConvertProcessorFamilyAcrossNamespaces : 
+188	v	Exception in DapListViewModel Initialize: 
+189	v	Exception in DapListViewModel NoviceInitialize: 
+190	v	Exception in DeleteSelectedProfile: 
+191	v	Exception in LoadGutterHeight : 
+192	v	Exception in ReactToApply 
+193	v	Exception in ReadStoredConfiguration : 
+194	v	Exception in RunSpeedOptimizer
+195	v	Exception in Telemetry Manager Attach : 
+196	v	Exception in Telemetry Manager BeginSession : 
+197	v	Exception in Telemetry Manager DeInitialize : 
+198	v	Exception in Telemetry Manager Initialize : 
+199	v	Exception in Telemetry Manager RecordEvent : 
+200	v	Exception in TelemetryInitialize : 
+201	v	Exception in TrendViewModel Initialize : 
+202	v	Exception in update checker: 
+203	v	Exception in ValidateAndRunSpeedOptimizer
+204	v	Exception in VFCurveManager in SaveActiveProfile: 
+205	v	Exception launching download center process
+206	v	Exception launching Eula
+207	v	Exception launching release notes process
+208	v	Exception loading help
+209	v	Exception looking up db setting
+210	v	Exception occured while handling tuning change apply: 
+211	v	Exception occured while handling tuning change discard: 
+212	v	Exception occured while processing voltage change: 
+213	v	Exception occurred attempting to show help
+214	v	Exception occurred cancelling test
+215	v	Exception occurred closing splash
+216	v	Exception occurred connecting to service
+217	v	Exception occurred creating restore point
+218	v	Exception occurred displaying splash
+219	v	Exception occurred getting color from string 
+220	v	Exception occurred getting saved colors
+221	v	Exception occurred initialing DapSettingsManager
+222	v	Exception occurred initializing
+223	v	Exception occurred initializing MonitorSettings
+224	v	Exception occurred initializing TrendSettings
+225	v	Exception occurred loading initial control settings
+226	v	Exception occurred opening download center in browser: 
+227	v	Exception occurred opening release notes in browser: 
+228	v	Exception occurred reading registry key: 
+229	v	Exception occurred retrieving monitor state
+230	v	Exception occurred saving UI settings
+231	v	Exception occurred setting up software update dialog: 
+232	v	Exception occurred updating DapSettings state
+233	v	Exception occurred updating enabled for id: 
+234	v	Exception occurred updating trend color for id: 
+235	v	Exception occurred when looking for match to add for : 
+236	v	Exception occurred when looking for match to remove for : 
+237	v	Exception occurring in DapSettingsManager::GetState
+238	v	Exception parsing initial system info
+239	v	Exception reflecting out property
+240	v	Exception thrown while attempting shut down: 
+241	v	Exception thrown while attempting to load UI skin
+242	v	Exception thrown while attempting to update trend state: 
+243	v	Exception thrown while cancelling VF Curve Scan: 
+244	v	Exception thrown while Clearing Series: 
+245	v	Exception thrown while handling chart point click event: 
+246	v	Exception thrown while handling chart point mouse move event: 
+247	v	Exception thrown while handling chart point mouse up event: 
+248	v	Exception thrown while handling VF Curve Scan results: 
+249	v	Exception thrown while initializing VFCurve View Model Chart: 
+250	v	Exception thrown while loading list of running processes
+251	v	Exception thrown while loading monitor colors from resource files.
+252	v	Exception thrown while running VF Curve Scan: 
+253	v	Exception thrown while setting Percentage Value.
+254	v	Exception thrown while starting VF Curve Scan: 
+255	v	Exception trying to cancel software update
+256	v	Exception updating db setting
+257	v	Exception updating monitor setting
+258	v	Exception when deleting SavedSettings item
+259	v	Exception while clearing ignored update version number
+260	v	Exception while disabling software update
+261	v	Exception while enabling software update
+262	v	Exception while Generating DefaultControlStepSize
+263	v	Exception while Generating Step Size
+264	v	exception while generating step value for control
+265	v	Exception while Generating StepValueList
+266	v	Exception while getting Intel UI Color Theme
+267	v	Exception While logging Stress results
+268	v	Exception while setting ignored update version number
+269	v	Exception while setting Intel UI Color Theme Registry
+270	v	Exception while setting up to date time
+271	v	Exception while Telemetry EndSession
+272	v	Export Profile
+273	v	Export Profile Error
+274	v	Extreme Profile
+275	v	Extreme settings are more optimistic and may not be stable on all system configurations. Standard mode is recommended for most users.
+276	v	Failed Loading Default Profile
+277	v	Failed Restoring Settings
+278	v	Failed Settings Backup
+279	v	Failed to apply 
+280	v	Failed to apply AI Assist settings.
+281	v	Failed to apply changes
+282	v	Failed to apply profile to this DIMM. It contains unrecognized controls.
+283	v	Failed to apply profile. The number of controls is incorrect.
+284	v	Failed to attach main window reference to dialog: 
+285	v	Failed to back up your current settings.
+286	v	Failed to capture Windows settings dialog
+287	v	Failed to copy profile: 
+288	v	Failed to determine if system has a battery device.
+289	v	Failed to load help docs for platform error [
+290	v	Failed to load System Information
+291	v	Failed to load the Default profile.
+292	v	Failed to notify user
+293	v	Failed to open Log Directory as it does not exist.
+294	v	Failed to open Monitor Log Directory as it does not exist.
+295	v	Failed to Open Monitor Log Location
+296	v	Failed to paste profile, Windows clipboard did not contain valid profile information.
+297	v	Failed to paste profile, Windows clipboard was empty.
+298	v	Failure while attempting to browse for applications
+299	v	File Logging
+300	v	File Logging ⏹️
+301	v	File Logging ▶
+302	v	FilterPossibleValues: Error while generating user step value
+303	v	Finished loading possible keys.
+304	v	FOUND CONTROL with 1 or less possible values: 
+305	v	GetActiveProfile called
+306	v	GetProposedProfile called
+307	v	Getting Method parameters for Restore Point returned null
+308	v	Grid Width: 
+309	v	GUI is waiting for service in start pending state to start
+310	v	Have sent abort message to thread
+311	v	helpManager must not be null
+312	v	Hiding slot
+313	v	Hotkey-Profile Pairing, and all other
+314	v	id must be valid
+315	v	IEnumerableCollapseConverter convert back
+316	v	Illegal characters found in the profile name. Please only use letters, digits, dashes '-' or underscores '_'
+317	v	Illegal characters found in the profile name. Please rename the profile to only have letters, digits, dashes '-' or underscores '_'
+318	v	Import Profile
+319	v	Import Profile Error
+320	v	Import profiles.
+321	v	Incompatible Processor
+322	v	Incompatible Values (
+323	v	Increment Core Ratio
+324	v	Initialized Category Model
+325	v	Initialized Manual View Controller
+326	v	Initialized ManualTuningManager controls:
+327	v	Initialized Profile Manager
+328	v	Initialized Profiles View Model
+329	v	Initialized Software Update View Model
+330	v	Initializing App Profile Pairing Manager
+331	v	Initializing Manual tuning Manager
+332	v	Initializing profiles
+333	v	inputManager must not be null

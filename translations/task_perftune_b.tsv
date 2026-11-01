@@ -1,0 +1,333 @@
+334	v	inputTuningControls must not be null
+335	v	Intel(R) Extreme Tuning Utility
+336	v	Intel® Extreme Tuning Utility
+337	v	Intel® Speed Optimizer 2.0
+338	v	Intel® Speed Optimizer 2.0 completed successfully!
+339	v	Intel® Speed Optimizer 2.0 failed due to Undervolt Protection limits, please reference help documents for further information.
+340	v	Intel® Speed Optimizer 2.0 failed. Please use the Advanced Tuning tab to achieve max performance manually.
+341	v	Intel® Speed Optimizer 2.0 is already off.
+342	v	Intel® Speed Optimizer 2.0 is turned on.
+343	v	Intel® Speed Optimizer 2.0 not supported.
+344	v	Intel® Speed Optimizer 2.0 turned off!
+345	v	Intel® Turbo Boost Technology could not be enabled. Manually enable this control in Intel® XTU and try again.
+346	v	Intel® Turbo Boost Technology is disabled on this system.
+347	v	Invalid File Format. All existing App-Profile Pairs have been removed.
+348	v	Invalid Navigation item id passed to NavigateToItem: 
+349	v	Invalid profile id passed to ProposeProfile: 
+350	v	Invalid Profile Name
+351	v	Invalid Profile Pairing
+352	v	Invalid test id specified
+353	v	ISO is enabled on PerfTune launch but no pre-ISO profile exists. Turning off ISO and applying default profile
+354	v	Items must not be null
+355	v	Last boot values
+356	v	Leftover proposed change id: 
+357	v	Loading Themes
+358	v	LOCKED PART DETECTED: 
+359	v	lookupString must have valid controls
+360	v	manager must not be null
+361	v	Manual Tuning
+362	v	Manual Tuning is currently active.
+363	v	Manual tuning Manager Initialized
+364	v	Manual tuning range control created
+365	v	ManualTuningManager must not be null
+366	v	manualTuningManager must not be null
+367	v	messageBox must not be null
+368	v	midnightCanyonManager must not be null
+369	v	MidnightCanyonManager must not be null
+370	v	model must not be null
+371	v	Modified Values (
+372	v	Monitor Log Directory does not exist. Please ensure File Logging has been run at least once.
+373	v	Monitoring Required
+374	v	monitoringManager must not be null
+375	v	monitorModel must not be null
+376	v	monitorSettings must not be null
+377	v	Multiple Cores Selected
+378	v	Multiple profiles exist with the same name
+379	v	Navigation Items null in NavigateToItem
+380	v	NavigationViewModel must not be null
+381	v	Need to have the latest BIOS, Windows patches, and have Undervolt Protection enabled in BIOS
+382	v	New buckets contain different number of cores than before. This is impossible.
+383	v	New Grid Size: 
+384	v	New Visible Slots: 
+385	v	No ctrl found named [
+386	v	No default browser has been installed and configured.
+387	v	No eula found at: 
+388	v	No monitoring logging directory has been created. Starting a new file logging session will create this directory.
+389	v	No Profile Pairing
+390	v	None of the sections of this profile can be edited.
+391	v	Not a valid selection of pairing
+392	v	offValue must not be null
+393	v	OnAiCharacterizeUpdate unhandled update 
+394	v	OnOffControlModel expects 2 or 3 supported values to exist
+395	v	onValue must not be null
+396	v	Open monitor logging directory
+397	v	OperationNotifier: Attempted to end operation while none had started.
+398	v	OperationNotifier: Attempted to start a null operation.
+399	v	Optimize Now
+400	v	Optimize Power & Current Limits
+401	v	Overclocking is disabled on this system.
+402	v	Overclocking Lock could not be unlocked. Manually unlock this control in Intel® XTU and try again.
+403	v	Paired Hotkeys and Profiles
+404	v	Perf tune apply failed
+405	v	Performance Core 10
+406	v	Performance Core 11
+407	v	Performance Core 8
+408	v	Performance Core 9
+409	v	Performance Per-Core Tuning
+410	v	Performance Profile
+411	v	perfTuneModel must not be null
+412	v	Permission Denied
+413	v	platformDetect must not be null
+414	v	platformDetection must not be null
+415	v	Please Apply or Discard proposed Active Memory Frequency Point before modifying memory timings.
+416	v	Please Apply or Discard proposed changes before characterizing.
+417	v	Please Apply or Discard proposed changes before starting benchmark.
+418	v	Please Apply or Discard proposed changes before starting scan.
+419	v	Please Apply or Discard proposed changes before turning on App-Profile Pairing.
+420	v	Please Apply or Discard proposed memory timing changes before modifying Active Memory Frequency Point.
+421	v	Please Apply or Discard proposed memory timing changes before switching between Broadcast and Channel modes.
+422	v	Please enter a non-empty name
+423	v	Please restart the application for theme change
+424	v	Please select a test
+425	v	Power & Current Limits Optimized
+426	v	Power and Current Limits
+427	v	Problem Characterizing
+428	v	Process and application name attempted for pairing is null or empty.
+429	v	Process name matches an existing App-Profile Pair. Would you like to update the existing App-Profile Pair?
+430	v	Process or profile name provided were null or empty. Add process profile failed.
+431	v	Processing manifest
+432	v	processLauncher must not be null
+433	v	Processor Cache,
+434	v	Processor Core,
+435	v	Processor Graphics,
+436	v	Processor not supported
+437	v	Profile Already Active
+438	v	Profile Error
+439	v	profile must not be null
+440	v	Profile name attempted for pairing is null or empty.
+441	v	Profile name must consist of more than just the file extension. Please rename the profile and try importing again.
+442	v	Profile Pairing
+443	v	Profile with the name 
+444	v	Profile you are trying to upload is invalid.
+445	v	ProfileManager must not be null
+446	v	profileManager must not be null
+447	v	Propose Change called for Control Id: 
+448	v	Propose Profile call failed
+449	v	ProposeChange called
+450	v	Proposed Active Memory Frequency Point exists while attempting to modify memory timings. ProposeChange Failed.
+451	v	Proposed Changes
+452	v	Proposed memory timings exist while attempting to modify Active Memory Frequency Point. ProposeChange Failed.
+453	v	Proposed values
+454	v	Proposed Values (
+455	v	proposedProfile must not be null
+456	v	ProposeProfile Called
+457	v	Reached end of wait period without the service listing as running
+458	v	Real-Time Memory
+459	v	Reboot called
+460	v	RecordEvent failed with Exception.
+461	v	RecordEvent Is not success. Result:
+462	v	Refreshing active values is not supported on this platform.
+463	v	regAbstraction must not be null
+464	v	Registered Benchmarking
+465	v	Registered Midnight Canyon
+466	v	Registered Monitors
+467	v	Registered Speed Optimizer View
+468	v	Registered Stress Test
+469	v	Registered VF Curve View
+470	v	RegistryAbstraction must not be null
+471	v	registryAbstraction must not be null
+472	v	Reload Controls Called
+473	v	Remoting exception occurred: 
+474	v	Rename Profile Id is: 
+475	v	Reset defaults
+476	v	Reset to defaults
+477	v	Restart Scan
+478	v	Return to Defaults
+479	v	Returned upload URL is not a valid HTTP or HTTPS protocol link.
+480	v	Running a single instance of application
+481	v	savedSettings must not be null
+482	v	Saving application settings
+483	v	SelectedCore core was in SelectedCores collection while IsMultipleSelection was false
+484	v	sender must not be null
+485	v	Service managed to start despite exception
+486	v	Service Notification
+487	v	Service was already stopped.
+488	v	Service was null.
+489	v	Session ID: 
+490	v	Setting up Simulation IOC items
+491	v	Share, compare, and compete online with other Intel® XTU users in the HWBOT community.
+492	v	Show active slot
+493	v	Show boot slot
+494	v	Show default slot
+495	v	Show delta slot
+496	v	Show proposed slot
+497	v	Showing active
+498	v	Showing boot
+499	v	Showing default
+500	v	Showing delta
+501	v	Showing Startup Window
+502	v	Shutting down application
+503	v	Skipping drive init since there are no drive controls
+504	v	Skipping initialization of TDP Package lock since it is unlocked and we don't render it in that case
+505	v	Skipping memory timing init since there are no memory controls
+506	v	Skipping realTimeMemoryControls init since there are no realTimeMemoryControls controls
+507	v	Slots Available: 
+508	v	Some control thing.
+509	v	Some of the settings could not be applied successfully
+510	v	Some program files are corrupted or missing. This could be the result of an incomplete installation or corrupted file system. Please try reinstalling the program.
+511	v	Speed Optimizer
+512	v	Splash closed
+513	v	Start Monitors
+514	v	Starting IOC Setup
+515	v	Starting reboot procedure
+516	v	Starting service
+517	v	Starting to read manifest file.
+518	v	Starting up UI
+519	v	StateManager must not be null
+520	v	stateManager must not be null
+521	v	Stop Benchmark
+522	v	Stop Monitors
+523	v	Stop Stress Test
+524	v	Stress Test
+525	v	Stress Test is Running
+526	v	Switch to Monitor Mode
+527	v	Switch to Show All Mode
+528	v	System Characterization
+529	v	System characterization runs stress tests on the system to better understand workloads.
+530	v	System defaults
+531	v	System info-
+532	v	System Information
+533	v	Telemetry Attach is not success. Result:
+534	v	Telemetry BeginSession Result:
+535	v	Telemetry BeginSession was not Success
+536	v	Telemetry DeInitialize is not Successful
+537	v	Telemetry DeInitialize is Successful
+538	v	Telemetry EndSession is not Successful
+539	v	Telemetry EndSession is Successful
+540	v	Telemetry Initialize Result: 
+541	v	TelemetryViewModel must not be null
+542	v	Temperature Cutoff Point 2
+543	v	The available update is compatible for the system.
+544	v	The connection with the service was lost. All settings have been saved, please close and restart the application to continue.
+545	v	The Default profile cannot be overwritten
+546	v	The Default profile is not currently applied. Applying the profile now will replace current setting. Select Cancel to save the current settings.
+547	v	The Default profile needs to be scanned first to establish a baseline. Select Apply and Scan to backup your current setting, switch to the default profile, scan the default profile, restore your settings, and then scan your applied settings. Select Cancel to stop the scan.
+548	v	The default profile, or read-only profiles cannot be overwritten
+549	v	The following settings could not be applied successfully: 
+550	v	The Intel® Extreme Tuning Utility collects information regarding the use of your system and software to provide you the best products, services and experiences possible. A unique identifier is associated with the data collected, however it is not used to identify or contact you. You can turn off this feature at any time by going to the Advanced tab page on the Settings dialog.
+551	v	The last benchmark to run is not supported for sharing on HWBOT.
+552	v	The optimized OC performance is already met. Please use the Advanced Tuning tab to achieve max performance manually or turn off Speed Optimizer.
+553	v	The platform does not support overclocking. For best Overclocking performance, please check Intel K- and X-series Processors.
+554	v	The platform fully supports overclocking for 
+555	v	The platform has limited overclocking capability for 
+556	v	The profile has been uploaded to HWBOT. Please check your open browser to view this submission.
+557	v	The update was not compatible.
+558	v	The XTU installation is corrupted. Please reinstall
+559	v	There were no value changes in this profile to propose.
+560	v	This application can not be run in safe mode
+561	v	This is a fresh UI session
+562	v	This is an XMP Manufacturer Profile. It cannot be modified and will not be active unless this is selected as the active profile in BIOS.
+563	v	This is an XMP User Profile. It can be edited at runtime, however changes to this profile will only be reflected by system performance after reboot and if this is selected as the active profile in BIOS.
+564	v	This is not a fresh UI session
+565	v	This platform does not support Turbo Tuning.
+566	v	This platform does not support Turbo Tuning. Manual Tuning is currently active.
+567	v	This processor is already optimized at its default values.
+568	v	This profile contains invalid items which could not be proposed
+569	v	This profile does not match your current processor. It cannot be imported.
+570	v	This profile is not eligible for 
+571	v	This profile name already exist. It cannot be imported.
+572	v	This program is being launched from an invalid location
+573	v	This system does not support importing profiles because certain controls required to permit overclocking are inaccessible.
+574	v	Throttling has caused the chart to render invalid voltage points. Select Restart Scan to try again or OK to exit and edit the point voltage offsets to achieve stable voltage points.
+575	v	Throttling has caused the chart to render invalid voltage points. Select Restart Scan to try again or OK to exit and restore your previous settings.
+576	v	Throttling has caused the chart to render invalid voltage points. Select Restart Scan to try again or OK to exit.
+577	v	To import profiles
+578	v	trendArgs must not be null
+579	v	Tuning Error
+580	v	Tuning error [
+581	v	tuningCategory must not be null
+582	v	tuningControl.PossibleValues.Count must be 3
+583	v	tuningManager must not be null
+584	v	Turn Off
+585	v	Turn Off Automatic OC
+586	v	Turning off Intel® Speed Optimizer 2.0 will revert your overclocking settings back to the state it was before Intel® Speed Optimizer 2.0 was turned on. Do you want to continue?
+587	v	Turning off Intel® Speed Optimizer 2.0 will revert your tuning profile back to the state it was before Intel® Speed Optimizer 2.0 was turned on. Do you want to continue?
+588	v	Turning on Hotkey-Profile Pairing will disable App-Profile Pairing.
+589	v	TVB Ratio Offset
+590	v	TVB Ratio Offset Point 2
+591	v	TVB Temperature Cutoff
+592	v	Unable to start
+593	v	Unable to start 
+594	v	Unable to start Intel(R) Extreme Tuning Utility because of a system incompatibility.
+595	v	Unhandled exception on dispatcher occurred
+596	v	Unknown XmpControl passed to XmpControlToXmpControlGroup.
+597	v	Unknown XmpControlGroup
+598	v	Unrecognized platorm error: 
+599	v	Unselected core was in SelectedCores collection while IsMultipleSelection was false
+600	v	Unselected core wasn't in SelectedCores collection
+601	v	Update Column Widths called
+602	v	Update thread was already running
+603	v	UpdateModel must not be null
+604	v	Updating the App-Profile Pair failed.
+605	v	Upload Error
+606	v	Upload Succeeded
+607	v	Use Extreme Settings
+608	v	User agreed to the legal disclaimer.
+609	v	User chose to not show the legal disclaimer again.
+610	v	User chose to not show the profile warning again.
+611	v	User Profile 1
+612	v	User Profile 2
+613	v	Very high frequencies detected without FLL_OC_MODE enabled in BIOS. This can result in misreported frequencies. Your benchmark score is valid, but this frequency result will not be saved.
+614	v	VF Curve
+615	v	VF Curve cancelled: Restored Core Ratios
+616	v	VF Curve is attempting to render applied graph without default curve graph.
+617	v	VF Curve Scan
+618	v	VF Curve Scan Cancelled
+619	v	VF Curve Scan Completed
+620	v	VF Curve Scan is Invalid
+621	v	VF Curve Scan Started
+622	v	VF Curve scan thread aborted
+623	v	VF Curve Scan: Could not restore Core Ratios to pre-scan state
+624	v	VF Curve Scan: Restored Core Ratios
+625	v	VF Curve Scan: VF Curve skewed because of system throttling
+626	v	VF Curve skewed because of system throttling. Please refer to the help document for throttling reasons.
+627	v	VF Curve: System entering sleep
+628	v	VF Curve: System resuming from sleep
+629	v	VF Scan thread aborted.
+630	v	Virtualization-based security using hardware virtualization and hypervisor
+631	v	Visibility conversion for scroll bars is currently just one way.
+632	v	Visible Slots: 
+633	v	VoltageModeControlModel expects 3 supported values to exist
+634	v	Waiting for service to stop
+635	v	Waiting up to 30 seconds for service to start
+636	v	Warning: The authenticity of this file cannot be verified.
+637	v	Warning: The signature of this file is invalid, and the user cannot be verified. We do not recommend importing this file.
+638	v	Watchdog continue selected, system should be in defaults already
+639	v	Watchdog not supported on apply
+640	v	Watchdog timer is not supported
+641	v	Why? Why you want to convert it back. There is nothing, that can support it
+642	v	Window is Minimized
+643	v	Windows settings dialog started successfully
+644	v	Would you like to overwrite the profile that already has this name?
+645	v	wrapper must not be null
+646	v	XTU back as to Normal WindowState
+647	v	XTU is being launched from invalid location
+648	v	XTU is up-to-date as of 
+649	v	XTU Service not located
+650	v	XTU still running
+651	v	You cannot save this Hotkey-Profile pair:
+652	v	You have proposed tuning changes. Click Discard Changes to continue to Advanced View or Cancel.
+653	v	You have proposed tuning changes. Click Discard Changes to continue to Compact View or Cancel.
+654	v	You have proposed tuning changes. Click Discard Changes to continue to with Automatic Overclock or Cancel to return to Manual Tuning.
+655	v	You've added your first hotkey! Be aware that your hotkeys will not be active until you turn on Hotkey-Profile Pairing with the button below. Would you like to turn it on now?
+656	v	Your Monitor Log folder looks full. Do you want to clean it before continuing?
+657	v	Your prior settings could not be restored.
+658	v	Your processor must be a 2nd Generation Intel® Core™ Processor or newer in order to 
+659	v	Your profile was not uploaded as no network connection was detected. Please check your network connection and try again.
+660	v	Your system is currently running a Benchmark. Click Stop Benchmark to continue with VF Curve Scan or Cancel.
+661	v	Your system is currently running a stress test. Running a benchmark and a stress test at the same time is not possible. Click Cancel to wait for the stress test to complete or Continue to stop the stress test and run the benchmark.
+662	v	Your system is currently running a stress test. Running AI Assist and a stress test at the same time is not possible. Click Cancel to wait for the stress test to complete or Continue to stop the stress test and start AI Assist.
+663	v	Your system is currently under stress test. Click Stop Stress Test to continue with VF Curve Scan or Cancel.
+664	v	• Alt+F4 is not an allowed hotkey combination.
+665	v	• The profile 
+666	v	• The selected hotkey is already in use.

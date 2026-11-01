@@ -1,0 +1,249 @@
+0	Description	A constant offset that is applied to the Efficient Cores cache interface voltage, regardless of mode.
+1	Description	A constant offset that is applied to the VCC_IO voltage (affecting PCIe), regardless of Mode or Turbo activation.
+2	Description	A negative offset applied to the per-core ratio multiplier of a core while it is running an AMX or TMUL workload. On 10-Series and later processors, this offset is NOT applied to active core ratio calculations.
+3	Description	A negative offset applied to the per-core ratio multiplier of a core while it is running an AVX2/AVX-256 workload. On 10-Series and later processors, this offset is NOT applied to active core ratio calculations.
+4	Description	A negative offset applied to the per-core ratio multiplier of a core while it is running an AVX3/AVX-512 workload. On 10-Series and later processors, this offset is NOT applied to active core ratio calculations.
+5	Description	ACT to CAS (RD or WR) same bank minimum delay in tCK cycles.
+6	Description	Adjusting the VccU voltage offset can benefit ring/cache frequency.
+7	Description	Allows user to select a scale factor for the voltage guard-bands when used.
+8	Description	Average period between refreshes, and the rate that tREFI counter is incremented (in DCLK cycles, default is 4100).
+9	Description	DDR3/LPDDR3: Minimum delay from RD to RD to the same bank in DCLK cycles. DDR4: Minimum delay from RD to RD to the different bank group in DCLK cycles.
+10	Description	DDR3/LPDDR3: Minimum delay from RD to RD to the same bank in DCLK cycles. DDR4: Minimum delay from RD to RD to the same bank group in DCLK cycles.
+11	Description	DDR3/LPDDR3: Minimum delay from RD to WR to the same bank in DCLK cycles. DDR4: Minimum delay from RD to WR to the different bank group in DCLK cycles.
+12	Description	DDR3/LPDDR3: Minimum delay from RD to WR to the same bank in DCLK cycles. DDR4: Minimum delay from RD to WR to the same bank group in DCLK cycles.
+13	Description	DDR3/LPDDR3: Minimum delay from WR to RD to the same bank in DCLK cycles. DDR4: Minimum delay from WR to RD to the different bank group in DCLK cycles.
+14	Description	DDR3/LPDDR3: Minimum delay from WR to RD to the same bank in DCLK cycles. DDR4: Minimum delay from WR to RD to the same bank group in DCLK cycles.
+15	Description	DDR3/LPDDR3: Minimum delay from WR to WR to the same bank in DCLK cycles. DDR4: Minimum delay from WR to WR to the different bank group in DCLK cycles.
+16	Description	DDR3/LPDDR3: Minimum delay from WR to WR to the same bank in DCLK cycles. DDR4: Minimum delay from WR to WR to the same bank group in DCLK cycles.
+17	Description	Disables energy efficiency measures within the processor's integrated voltage regulator, and may allow operation at a higher reference clock ratio.
+18	Description	Disables or enables processor over-voltage and over-current protection circuits.
+19	Description	Disables the processor's voltage request (SVID) interface, preventing further changes to the processor input voltage.  This may improve system stability at extreme reference clock frequencies.
+20	Description	Enables or disables the ability to overclock ratio limits and voltages at run time.  If this lock is set then those settings specified will be disabled from any further run time changes.
+21	Description	Enables or disables the Intel® Turbo Boost Technology in the processor.
+22	Description	Enables the processor graphics power limit.
+23	Description	Enables the Short Duration Maximum Power Limit when Turbo Boost is engaged. (PL2 enable)
+24	Description	Enforces safety/timing of any command to MRR.
+25	Description	Enhanced Intel® SpeedStep Technology allows the system to dynamically adjust processor voltage and core frequency, which can result in decreased average power consumption and heat production.
+26	Description	Final voltage offset that is applied to the processor graphics cores.
+27	Description	Final voltage offset that is applied to the processor graphics media cores.
+28	Description	Holds DDR timing parameter tCKE. Power down to power up (and vice versa) minimum delay in DCLK cycles.
+29	Description	Holds DDR timing parameter tCWL (sometimes referred to as tWCL). Write command to data delay in DCLK cycles.
+30	Description	Holds DDR timing parameter tFAW (four activates window).
+31	Description	Holds DDR timing parameter tRAS. ACT to PRE same bank minimum delay in DCLK cycles.
+32	Description	Holds DDR timing parameter tRP (and tRCD). PRE to ACT same bank minimum delay in DCLK cycles. ACT to CAS (RD or WR) same bank minimum delay in DCLK cycles. For LPDDR3 this field should hold tRPpb (and tRCD) values.
+33	Description	Holds DDR timing parameter tRRD. ACT to ACT (different bank group in DDR4) minimum delay in DCLK cycles.
+34	Description	Holds DDR timing parameter tRRD/tRRD_L. For DDR3/LPDDR3 program tRRD, for DDR4 program tRRD_L. ACT to ACT (same bank group in DDR4) minimum delay in DCLK cycles.
+35	Description	Indicates if Dynamic Memory Boost is enabled on this system. Disable Dynamic Memory Boost in BIOS to modify Real-Time Memory Timings or Real-Time Memory Frequency in XTU.
+36	Description	Input voltage to FIVR. Core voltage is supplied by FIVR internally. Tuning  this  will improve core voltage.
+37	Description	Intel XMP is an expansion of the DDR3 memory specification which provides complete profiles containing a verified set of memory frequency, timing, and voltage parameters for a specific platform.
+38	Description	Limits the power consumption of the processor graphics core(s) by regulating its frequency.
+39	Description	Limits the processor's Extended Duration Maximum Power when Turbo Boost is engaged. (PL1 limit)
+40	Description	Limits the processor's Short Duration Maximum Power when Turbo Boost is engaged. (PL2 limit)
+41	Description	Maximum additional voltage applied to the CPU when Turbo Boost is engaged.
+42	Description	Maximum additional voltage that may be applied to the processor graphics core(s).
+43	Description	Maximum instantaneous current allowed through the IA core power rail at any given time.
+44	Description	Maximum instantaneous current allowed through the processor graphics core power rail at any given time.
+45	Description	Maximum operating frequency of the interface that connects the processor's cache to its cores.
+46	Description	Minimum delay from RD to RD to the other DIMM.
+47	Description	Minimum delay from RD to RD to the other rank in the same DIMM.
+48	Description	Minimum delay from RD to WR to the other DIMM.
+49	Description	Minimum delay from RD to WR to the other rank in the same DIMM.
+50	Description	Minimum delay from WR to RD to the other DIMM.
+51	Description	Minimum delay from WR to RD to the other rank in the same DIMM.
+52	Description	Minimum delay from WR to WR to the other DIMM.
+53	Description	Minimum delay from WR to WR to the other rank in the same DIMM.
+54	Description	Offsets the voltage supplied to the processor system agent.
+55	Description	Read command to data delay in tCK cycles.
+56	Description	Selects the algorithm used by the processor's integrated voltage regulator to control processor graphics media voltage.
+57	Description	Selects the algorithm used by the processor's integrated voltage regulator to control processor graphics voltage.
+58	Description	Selects the algorithm used by the processor's integrated voltage regulator to control the processor's core voltage.
+59	Description	Selects the algorithm used by the processor's integrated voltage regulator to control the processor's internal cache interface voltage.
+60	Description	Selects the algorithm used for supplying voltage to the processor's System Agent.
+61	Description	Selects the algorithm used to control the Efficient Cores' cache interface voltage. Adaptive allows the controller to float voltage up and down with demand, while static voltage forces a single voltage value at all times.
+62	Description	Selects the algorithm used to control the VCC_IO voltage (affecting PCIe).  Adaptive allows the controller to float voltage up and down with demand, while static voltage forces a single voltage value at all times.
+63	Description	Set IccMax for Processor Cache and Ring Bus Voltage Regulator.
+64	Description	Set IccMax for Processor Core Voltage Regulator.
+65	Description	Set IccMax for Processor Graphics Unslice Voltage Regulator.
+66	Description	Set IccMax for Processor Graphics Voltage Regulator.
+67	Description	Set IccMax for System Agent Voltage Regulator.
+68	Description	Set the Active Real-Time Memory Frequency Point to either the Default or XMP frequency
+69	Description	Sets the maximum processor graphics multiplier at which the graphics core(s) can operate. The value of the graphics frequency is the product of this ratio and the reference clock frequency.
+70	Description	Sets the maximum processor graphics unslice multiplier at which the graphics core(s) can operate. The value of the processor graphics media frequency is the product of this ratio and the reference clock frequency.
+71	Description	Sets the voltage for the Core domain. On many platforms it is tied to the Cache domain, and in those cases, whichever is set to the larger value will be applied.
+72	Description	Sets the voltage for the I/O Controller Hub.
+73	Description	Sets the voltage for the I/O Hub.
+74	Description	Sets the voltage for the Intel® QuickPath Interconnect.
+75	Description	Sets the voltage for the memory modules.
+76	Description	Sets the voltage for the processor's System Agent which includes the memory controller. Adjusting the System Agent Voltage (also called VccSA) can benefit ring/cache frequency.
+77	Description	Specifies the maximum instantaneous electrical current to be requested by the processor.
+78	Description	The current speed of the DDR memory bus which is responsible for communication of data between the processor and physical memory.
+79	Description	The duty cycle setting for the auxiliary cooling fan controller.
+80	Description	The duty cycle setting for the chasis cooling fan controller.
+81	Description	The duty cycle setting for the chasis inlet cooling fan controller.
+82	Description	The duty cycle setting for the chasis outlet cooling fan controller.
+83	Description	The duty cycle setting for the CPU cooling fan controller.
+84	Description	The duty cycle setting for the drive cooling fan controller.
+85	Description	The duty cycle setting for the GPU cooling fan controller.
+86	Description	The duty cycle setting for the IOH cooling fan controller.
+87	Description	The duty cycle setting for the MCH cooling fan controller.
+88	Description	The duty cycle setting for the memory cooling fan controller.
+89	Description	The duty cycle setting for the PCH cooling fan controller.
+90	Description	The duty cycle setting for the power supply cooling fan controller.
+91	Description	The duty cycle setting for the power supply inlet cooling fan controller.
+92	Description	The duty cycle setting for the power supply outlet cooling fan controller.
+93	Description	The duty cycle setting for the system cooling fan controller.
+94	Description	The duty cycle setting for the voltage regulator cooling fan controller.
+95	Description	The maximum frequency that the processor can run at while Turbo Boost is engaged.
+96	Description	The maximum frequency that the processor can run at while Turbo Boost is not engaged.
+97	Description	The maximum ratio that the processor will use while Turbo Boost is not engaged.
+98	Description	The maximum speed at which the processor graphics core(s) will operate.
+99	Description	The multiplier of the reference frequency.
+100	Description	The speed at which the Efficient Core(s) will operate.
+101	Description	The speed at which the Performance Core(s) will operate.
+102	Description	The speed of the Intel® QuickPath Interconnect bus which is used for processor-to-processor and processor-to-IOH communications.
+103	Description	The status of all AVX instructions (AVX, AVX2/AVX-256 and AVX3/AVX-512) being disabled.
+104	Description	The status of only AVX-512 instructions being disabled.
+105	Description	The time window over which the average CPU core power must be below the Turbo Boost Power Max. (PL1 time)
+106	Description	The time window over which the average CPU core power must be below the Turbo Boost Short Power Max. (PL2 time)
+107	Description	The time window over which the power limit consumption of the processor graphics core(s) are to be maintained.
+108	Description	This is the reference frequency that the CPU Core, System Agent (or Uncore), and Memory are all derived from. This clock also drives the graphics frequency on CPUs with processor graphics cores.
+109	Description	This offset is applied to the Core domain's requested voltage at all times. On many platforms it is tied to the Cache domain, and in those cases, whichever is set to the larger value will be applied.
+110	Description	This offset is applied to the requested cache voltage at all times. On many platforms it is tied to the Core domain and, in those cases, whichever is set to the larger value will be applied.
+111	Description	This setting tells the processor to disregard Turbo Boost Power Max and Turbo Boost Current Max settings.
+112	Description	Time from MRR to MRR or MRR to any other command.
+113	Description	Time of refresh - from beginning of refresh until next ACT or refresh is allowed (in DCLK cycles, default is 180).
+114	Description	Unlocks the model specific register to allow overriding of the processor package's default power limits.
+115	Description	Voltage that is supplied to processor graphics based on the currently selected processor graphics voltage mode.
+116	Description	Voltage that is supplied to processor graphics media based on the currently selected processor graphics media voltage mode.
+117	Description	Voltage that is supplied to the Efficient Cores' cache interface, based on the currently selected Efficient Cores cache voltage mode.
+118	Description	Voltage that is supplied to the processor's internal cache interface based on the currently selected cache voltage mode. On many platforms it is tied to the Core domain voltage and, in those cases, whichever is set to the larger value will be applied.
+119	Description	Voltage that is supplied to the VCC_IO voltage (affecting PCIe), based on the currently selected VCCIO Voltage Mode.
+120	Description	When enabled, the processor can reach the specified package ratio when below the specified temperature. If above the specified temperature, then the corresponding frequency ratio is reduced by the specified offset.
+121	Enumeration	Adaptive|Static
+122	Enumeration	Default|Custom|Profile 1|Profile 2
+123	Enumeration	Default|XMP
+124	Enumeration	Disable|Enable
+125	Enumeration	Enabled|Disabled
+126	Enumeration	Lock|Unlock
+127	Name	Active Real-Time Memory Frequency Point
+128	Name	Additional Processor Graphics Voltage
+129	Name	Additional Turbo Voltage
+130	Name	AMX Ratio Offset
+131	Name	Auxiliary Cooling Fan Controller Duty
+132	Name	AVX Disable
+133	Name	AVX-512 Disable
+134	Name	AVX-512 Ratio Offset
+135	Name	AVX-512 Voltage Guardband Scale Factor
+136	Name	AVX2 Ratio Offset
+137	Name	AVX2 Voltage Guardband Scale Factor
+138	Name	Cache IccMax
+139	Name	Chasis Cooling Fan Controller Duty
+140	Name	Chasis Inlet Cooling Fan Controller Duty
+141	Name	Chasis Outlet Cooling Fan Controller Duty
+142	Name	Core Current Limit
+143	Name	Core Voltage
+144	Name	Core Voltage Mode
+145	Name	Core Voltage Offset
+146	Name	CPU Cooling Fan Controller Duty
+147	Name	Drive Cooling Fan Controller Duty
+148	Name	Dynamic Memory Boost
+149	Name	Dynamic Processor Input Voltage
+150	Name	Efficient Core Ratio
+151	Name	Efficient Cores Cache Voltage
+152	Name	Efficient Cores Cache Voltage Mode
+153	Name	Efficient Cores Cache Voltage Offset
+154	Name	Enhanced Intel® SpeedStep Technology
+155	Name	GPU Cooling Fan Controller Duty
+156	Name	ICH Voltage
+157	Name	Intel® Extreme Memory Profile
+158	Name	Intel® Overclocking Thermal Velocity Boost
+159	Name	Intel® QPI Voltage
+160	Name	Intel® QuickPath Interconnect Speed
+161	Name	Intel® Turbo Boost Technology
+162	Name	IOH Cooling Fan Controller Duty
+163	Name	IOH Voltage
+164	Name	Max Non Turbo Boost Ratio
+165	Name	Max Non-Turbo Boost CPU Speed
+166	Name	Max Processor Graphics Frequency
+167	Name	Max Turbo Boost CPU Speed
+168	Name	MCH Cooling Fan Controller Duty
+169	Name	Memory Cooling Fan Controller Duty
+170	Name	Memory Speed
+171	Name	Memory Voltage
+172	Name	Overclocking Lock
+173	Name	Package Turbo Power Lock
+174	Name	PCH Cooling Fan Controller Duty
+175	Name	Performance Core Ratio
+176	Name	Power Supply Cooling Fan Controller Duty
+177	Name	Power Supply Inlet Cooling Fan Controller Duty
+178	Name	Power Supply Outlet Cooling Fan Controller Duty
+179	Name	Processor Cache Ratio
+180	Name	Processor Cache Voltage
+181	Name	Processor Cache Voltage Mode
+182	Name	Processor Cache Voltage Offset
+183	Name	Processor Core IccMax
+184	Name	Processor Current Limit
+185	Name	Processor Graphics Current Limit
+186	Name	Processor Graphics IccMax
+187	Name	Processor Graphics Media Ratio Limit
+188	Name	Processor Graphics Media Voltage
+189	Name	Processor Graphics Media Voltage Mode
+190	Name	Processor Graphics Media Voltage Offset
+191	Name	Processor Graphics Power Max
+192	Name	Processor Graphics Power Max Enable
+193	Name	Processor Graphics Power Window
+194	Name	Processor Graphics Ratio Limit
+195	Name	Processor Graphics Unslice IccMax
+196	Name	Processor Graphics Voltage
+197	Name	Processor Graphics Voltage Mode
+198	Name	Processor Graphics Voltage Offset
+199	Name	Processor Integrated VR Efficiency Mode
+200	Name	Processor Integrated VR Faults
+201	Name	Reference Clock
+202	Name	Reference Clock Ratio
+203	Name	System Agent IccMax
+204	Name	System Agent Voltage
+205	Name	System Agent Voltage Mode
+206	Name	System Agent Voltage Offset
+207	Name	System Cooling Fan Controller Duty
+208	Name	tCKE
+209	Name	tCL
+210	Name	tCWL
+211	Name	tFAW
+212	Name	tMRR
+213	Name	tPreMRR
+214	Name	tRAS
+215	Name	tRCD
+216	Name	tRDRD_dd
+217	Name	tRDRD_dg
+218	Name	tRDRD_dr
+219	Name	tRDRD_sg
+220	Name	tRDWR_dd
+221	Name	tRDWR_dg
+222	Name	tRDWR_dr
+223	Name	tRDWR_sg
+224	Name	tREFI
+225	Name	tRFC
+226	Name	tRP
+227	Name	tRRD_dg
+228	Name	tRRD_sg
+229	Name	Turbo Boost Current Limiter
+230	Name	Turbo Boost Power Max
+231	Name	Turbo Boost Power Short Time Window
+232	Name	Turbo Boost Power Time Window
+233	Name	Turbo Boost Short Power Max
+234	Name	Turbo Boost Short Power Max Enable
+235	Name	tWRRD_dd
+236	Name	tWRRD_dg
+237	Name	tWRRD_dr
+238	Name	tWRRD_sg
+239	Name	tWRWR_dd
+240	Name	tWRWR_dg
+241	Name	tWRWR_dr
+242	Name	tWRWR_sg
+243	Name	VCC_IO Voltage
+244	Name	VCC_IO Voltage Mode
+245	Name	VCC_IO Voltage Offset
+246	Name	VccIN
+247	Name	VccU Voltage Offset
+248	Name	VR Cooling Fan Controller Duty

@@ -1,0 +1,317 @@
+0	v	     Enable Undervolt Protection in BIOS
+1	v	     Ensure you have the latest BIOS patch
+2	v	     Ensure you have the latest Windows patch
+3	v	 Active Core
+4	v	 Cancel Scan
+5	v	 Compare Online
+6	v	 Overclocking
+7	v	 Throttled
+8	v	 You may do the following if VBS is enabled:
+9	v	 _Upload
+10	v	 and 
+11	v	 for more information.
+12	v	 has been cancelled.
+13	v	 started at 
+14	v	(TextBlock.Foreground)
+15	v	* This control can be set to HW Control Mode
+16	v	1. Restore System Defaults
+17	v	2. Close Other Apps
+18	v	3. Start
+19	v	AI Assist Recommended
+20	v	AI Assist will be the most accurate if the system is set to BIOS defaults. Failure to restore BIOS default settings may also increase risk of system instability. Consult your system manual on how to restore BIOS defaults while ensuring overclocking is still enabled.
+21	v	Active Frequency
+22	v	Active Power Plan
+23	v	Add Hotkey
+24	v	Add Hotkey-Profile Pairing
+25	v	Add Profile
+26	v	Add a new Active Core tuning group.
+27	v	Add cores to this group from the group above.
+28	v	Add cores to this group from the group below.
+29	v	Advanced Options
+30	v	Advanced View
+31	v	After
+32	v	All of your ignored updates have been restored.
+33	v	All rights reserved. Other names and brands may be claimed as the property of others.
+34	v	An easier way to overclock your system.
+35	v	An update is available for installation. Please download and install the latest XTU.
+36	v	App-Profile Pairing has been disabled due to the battery level reaching the specified lower limit. Plug into a charger, or click Settings to reconfigure Battery Monitoring.
+37	v	Application Name
+38	v	Application list reflects currently running applications only. Hit the refresh button to refresh this list.
+39	v	Apply
+40	v	At Boot
+41	v	BETA
+42	v	Battery Monitoring
+43	v	Battery Profile
+44	v	Battery level(%):
+45	v	Before
+46	v	Benchmark your Current Settings
+47	v	Benchmarking
+48	v	Benchmarking Error:
+49	v	Broadcast
+50	v	Browse...
+51	v	Cancel
+52	v	Cancel changes to App-Profile Pairing
+53	v	Cancels all future notifications about this update.
+54	v	Changing this setting requires a reboot
+55	v	Channel 1
+56	v	Channel 2
+57	v	Channel 3
+58	v	Channel 4
+59	v	Characterization Values
+60	v	Characterization Values Applied!
+61	v	Check for Updates _Now
+62	v	Check with system and component manufacturers for details.
+63	v	Choose Application:
+64	v	Choose Profile in AC Power mode:
+65	v	Choose Profile in Battery mode:
+66	v	Click Apply to apply the new overclocking settings or hit cancel if you want to keep your current settings. If you cancel, you will need to re-run characterization to regenerate these settings.
+67	v	Click characterize to start the XTU profile of your system. This will take approximately 45 seconds and you should not open or have other applications running during this process.
+68	v	Click here for details.
+69	v	Click here for steps to convert your profiles.
+70	v	Click here to check the status of Windows VBS
+71	v	Click here to read more about Windows features that can enable VBS.
+72	v	Client Version:
+73	v	Close update
+74	v	Compact View
+75	v	Configure Available Data
+76	v	Configure Hardware Monitors
+77	v	Configure System Monitors
+78	v	Configure Trendline
+79	v	Consolidate Active Core tuning groups with matching ratios.
+80	v	Consult the 
+81	v	Continue, don't show again
+82	v	Control Name
+83	v	Control the way you update XTU
+84	v	Copy
+85	v	Copy profile into the Windows clipboard.
+86	v	Copyright © 2007 - 2024, Intel Corporation.
+87	v	Core Voltage Offset
+88	v	Current
+89	v	Current Score
+90	v	Current Values
+91	v	Currently Throttled
+92	v	Date Modified
+93	v	Decrease this value
+94	v	Delete App-Profile Pairing
+95	v	Delete Hotkey-Profile Pairing
+96	v	Delete Profile
+97	v	Disable
+98	v	Disabled
+99	v	Disables App-Profile Pairing at the specified battery level
+100	v	Disabling Windows services or features may affect the functionality of other applications.
+101	v	Discard
+102	v	Discard Changes
+103	v	Discard this change
+104	v	Due to the persistent nature of Hotkey-Profile Pairing, system tunings can be performed without additional warnings when a paired hotkey is pressed.
+105	v	E-Core Frequency (GHz)
+106	v	Edit App-Profile Pairing
+107	v	Edit Hotkey-Profile Pairing
+108	v	Edit Profile Name
+109	v	Enabled
+110	v	End user license agreement
+111	v	Ensure you have the latest BIOS patch, latest Windows updates, and have Undervolt Protection enabled in BIOS
+112	v	Error
+113	v	Fan Off Mode
+114	v	Favored Core
+115	v	File created by HWBOT user:
+116	v	Font Size:
+117	v	Frequency Multiplier
+118	v	Frequency/Voltage
+119	v	From File
+120	v	GHz
+121	v	General Settings
+122	v	Help
+123	v	Highest CPU Temperature
+124	v	Hotkey Combination
+125	v	Hotkey Modifiers
+126	v	Hotkey-Profile Pairing will remain active until turned off as long as XTU is running, even across reboots.
+127	v	How does my App-Profile Pairing work?
+128	v	How is my system benchmarked?
+129	v	How is my system tested?
+130	v	I agree
+131	v	I agree, don't show again
+132	v	If you wish to get maximum overclocking ability, please tune the turbo controls manually.
+133	v	Ignore Update.
+134	v	Ignores profile pairing if unchecked
+135	v	Import Proposal Summary
+136	v	Important Notification!
+137	v	Improvements Identified:
+138	v	Increase this value
+139	v	Individual Errors
+140	v	Intel XTU is a tool that can alter clock frequency or voltage. Altering clock frequency or voltage may void any product warranties and reduce stability, security, performance, and life of the processor and other components.
+141	v	Intel® Extreme Tuning Utility saves the state of all tuning settings when Windows shuts down. If this option is enabled, when Windows starts up again, XTU will tune all settings on the system to match the saved values, effectively saving your overclock across system reboots. This functionality is only enabled when the Watchdog Timer is present (See System Information tab)
+142	v	Intel® Thermal Velocity Boost
+143	v	Join the Intel® Product Improvement Program
+144	v	Last results
+145	v	Learn more about AI Assist here
+146	v	Logging
+147	v	M 0 0 L 4 4 L 0 8 Z
+148	v	M 0 0 L 4 4 L 8 0 Z
+149	v	M 0 4 L 8 4 L 4 0 Z
+150	v	M 4 0 L 4 8 L 0 4 Z
+151	v	Makes previously ignored updates visible when XTU checks for updates.
+152	v	Manual Tuning
+153	v	Max Step Size
+154	v	Maximum E-Core Frequency
+155	v	Maximum P-Core Frequency
+156	v	Memory Timings
+157	v	Monitor Color:
+158	v	Monitoring Frequency
+159	v	Move cores from this group to the group above.
+160	v	Move cores from this group to the group below.
+161	v	NOTE: All profile pairings have been disabled. You can re-enable these settings in the Profile Pairing tab.
+162	v	NOTE: Controls can be modified in Advanced Tuning before being applied.
+163	v	NOTE: If you save new profiles before converting the existing ones, following these conversion steps will overwrite the newly created profiles.
+164	v	New Values
+165	v	No, I do not want to participate in the program.
+166	v	Notification Settings
+167	v	OK
+168	v	Optimization and performance improvements identified!
+169	v	Optimized Processor
+170	v	Overclocking Disclaimer
+171	v	Overclocking is currently disabled
+172	v	Overclocking is disabled on this system.
+173	v	P-Core Frequency (GHz)
+174	v	P_ercent of change between
+175	v	Pair
+176	v	Paired Applications and Profiles
+177	v	Paired Hotkeys and Profiles
+178	v	Paste
+179	v	Pause Graph
+180	v	Pause sytem monitors
+181	v	Please do not open or run additional applications
+182	v	Please save your work and close all other applications to ensure the profiling of your system is as accurate as possible.
+183	v	Point Voltage
+184	v	Point Voltage Offset
+185	v	Powered by
+186	v	Preview Edition
+187	v	Primary Timings
+188	v	Profile Name
+189	v	Profile Name is restricted to letters, digits, dashes "-" and underscores "_".
+190	v	Profile Name:
+191	v	Propose the settings and save a new profile
+192	v	Ratio
+193	v	Ratio Multiplier
+194	v	Ratio Offset
+195	v	Ratio Offset #2
+196	v	Recent average
+197	v	Recent maximum
+198	v	Recent minimum
+199	v	Reference Clock
+200	v	Refresh
+201	v	Refresh list
+202	v	Report an Issue
+203	v	Restore tuning after reboot 
+204	v	Resume Graph
+205	v	Revert
+206	v	Run Benchmark
+207	v	Running Applications and Available XTU Profiles
+208	v	Save
+209	v	Save Profile
+210	v	Save changes to App-Profile Pairing
+211	v	Saved Profiles
+212	v	Scan Applied VF Curve
+213	v	Scan Default VF Curve
+214	v	Scan In-Range VF Curve
+215	v	Scanning Applied VF Curve
+216	v	Scanning Default VF Curve
+217	v	Secondary Timings
+218	v	Select All
+219	v	Select a Stress Test
+220	v	Selected Core
+221	v	Selected Cores
+222	v	Service Version:
+223	v	Set values in this profile to match the values stored in the Windows clipboard.
+224	v	Settings
+225	v	Settings for system graphs
+226	v	Settings for the system table
+227	v	Show Log Folder
+228	v	Show _Values
+229	v	Show me how watchdog coverage works
+230	v	Software Update
+231	v	Some controls have values proposed but not applied. Please be aware that only applied values are saved in profiles.
+232	v	Speed Optimizer Settings
+233	v	Speed Optimizer Values
+234	v	Start Testing
+235	v	Start system monitors
+236	v	Start writing monitoring data to a log file.
+237	v	Stop Benchmark
+238	v	Stop Testing
+239	v	Stop writing monitoring data to the log file.
+240	v	Stress tests running
+241	v	Switch to Monitoring View
+242	v	Switch to Show All View
+243	v	TVB Offset 1
+244	v	TVB Offset 2
+245	v	TVB Temp 1
+246	v	TVB Temp2
+247	v	Temperature #2
+248	v	Temperature (°C)
+249	v	Temperature Units:
+250	v	Tertiary Timings
+251	v	Test time remaining:
+252	v	The CPU 
+253	v	The application exited unexpectedly
+254	v	The benchmarking process has failed or the monitor process has stopped. No score was generated as a result.
+255	v	The benchmarking process has failed. No score was generated as a result.
+256	v	The following controls were present in the imported file but cannot be modified on your system.
+257	v	The imported file contained valid values for your system for the following controls. These controls are proposed to the same values in the file.
+258	v	The results may vary depending on system configuration and do not guarantee full OC performance.
+259	v	The values in the imported file for the following controls were outside the range of values available for your system. These controls are proposed to the nearest value possible.
+260	v	This may be due to platform instability. If your system supports watchdog functionality it may have been reset to default settings. Please check your overclocking settings.
+261	v	This platform does not permit overclocking and/or has software installed that may interfere with overclocking settings. Thermal, power and performance may be limited by pre-programmed settings. Tuning via XTU is not guaranteed.
+262	v	This processor is not supported.
+263	v	This profile cannot be uploaded or exported.
+264	v	Time Duration
+265	v	Time Remaining
+266	v	Time active
+267	v	Time throttled
+268	v	Total Voltage Offset
+269	v	Total time remaining:
+270	v	Tuning Control
+271	v	Turn Off App-Profile Pairing
+272	v	Turn Off Hotkey-Profile Pairing
+273	v	Turn On App-Profile Pairing
+274	v	Turn On Hotkey-Profile Pairing
+275	v	Undervolt Protection is enabled and will prevent voltage from being set below the boot-time voltage. Default values can become invalid with Undervolt Protection enabled.
+276	v	Units: 
+277	v	View Release Notes
+278	v	Voltage (V)
+279	v	Voltage Mode
+280	v	Voltage Offset
+281	v	Voltage Override
+282	v	Warning Color:
+283	v	Warning: Potential Profile Loss
+284	v	Watchdog coverage reverts your system to system defaults automatically if your proposed settings turn out to be invalid once they are applied. This feature is currently unavailable. If your system becomes unresponsive, you will have to manually restore to a stable state.
+285	v	What's Happening?
+286	v	When a hotkey is set here, and Hotkey-Profile Pairing is turned on, pressing that hotkey will result in the overclock of the linked profile being applied. This will happen regardless of what application has focus, even while in full-screen applications, as long as Intel® Extreme Tuning Utility is running or is visible in the System Tray. Hotkey-Profile Pairing will remain active until turned off as long as XTU is running, even across reboots.
+287	v	While AI Assist seeks to maintain system stability, there is a possibility that the characterization values may crash your system or have other unexpected adverse effects.
+288	v	XMP Profiles for
+289	v	XTU
+290	v	XTU documentation
+291	v	XTU is incompatible with Windows VBS (Virtualization-based security) and features that enable VBS if Undervolt Protection (UVP) is not enabled in BIOS. 
+292	v	XTU is incompatible with Windows VBS (Virtualization-based security).
+293	v	Yes, I want to participate in the program. (Recommended)
+294	v	You have attempted to auto overclock your system.
+295	v	Your CPU/BIOS does not have Undervolt Protection support as a mitigation, so you should check the status of services that can enable VBS. 
+296	v	Your profiles are stored in a format that is no longer supported and can't be displayed or used.
+297	v	Your system is now running with AI Assist recommended tunings. If you would like to modify these settings, select the Advanced Tuning tab to see the available options.
+298	v	Your system will not be able to recover to a valid state automatically
+299	v	_Active values
+300	v	_Clear Data
+301	v	_Clear data
+302	v	_Disable automatic update notifications
+303	v	_Enable Battery Monitoring
+304	v	_Export Profile
+305	v	_Import Profile
+306	v	_Last boot values
+307	v	_OK
+308	v	_Proposed values
+309	v	_Reset to defaults
+310	v	_Restore Ignored Updates
+311	v	_System defaults
+312	v	configuration.
+313	v	if you would like to export or upload this 
+314	v	or, enter process name:
+315	v	s
+316	v	to

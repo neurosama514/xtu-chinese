@@ -1,0 +1,74 @@
+0	v	Arg {0} is out of bounds ({1})
+1	v	Argument validation failed: {0}
+2	v	ASSERT FAILURE: {0}
+3	v	Attempting to perform Unity Initialization against Library {0}
+4	v	Bitfield requested is outside the bounds of a {0}
+5	v	Broadcast {0}
+6	v	Cache VF Point {0} Voltage Offset
+7	v	Cache VF Point {0} Voltage Offset Floor
+8	v	Channel {0} requested, but XTU SDK only supports up to channel {1}. Remember, channels are 0-indexed.
+9	v	Core VF Point {0} Voltage Offset
+10	v	Core VF Point {0} Voltage Offset Floor
+11	v	Could not Resolve Type Registration {0}({1})
+12	v	CPU Core {0} Frequency
+13	v	CPU Core {0} Temperature
+14	v	CPU Core {0} Utilization
+15	v	CPU Core {0} Voltage
+16	v	CPU Efficient Core {0} Frequency
+17	v	CPU Efficient Core {0} Temperature
+18	v	CPU Efficient Core {0} Utilization
+19	v	CPU Efficient Core {0} Voltage
+20	v	Device path length: {0}
+21	v	Device path: {0}
+22	v	DeviceIoControl 0x{0:X8} for {1}: Output buffer was null
+23	v	Efficient Core Max Turbo for {0} Cores
+24	v	Efficient Core Processor Core {0} Ratio Limit
+25	v	Efficient Core {0} Voltage Mode
+26	v	Efficient Core {0} Voltage Offset
+27	v	Efficient Core {0} Voltage Override
+28	v	Exception encountered during DeviceIoControl for {0}
+29	v	Failed to get mutex {0}: {1}
+30	v	Favored Core {0} Fused Ratio
+31	v	Favored Core {0} Ratio
+32	v	Fused Max {0}C OC Ratio Limit
+33	v	GeneralCode: {0}
+34	v	GetWatchdogRebootTimeOut: Reboot Timeout value is set in registry as {0} seconds  
+35	v	GetWatchdogRuntimeTimeout: Run Timeout value is set in registry as {0} seconds  
+36	v	Initializing DriverWrapper for driver {0}
+37	v	Intel(R) Overclocking TVB Ratio offset for Processor Core {0}
+38	v	Intel(R) Overclocking TVB Ratio offset for {0} Active Cores
+39	v	Intel(R) Overclocking TVB Temperature cutoff for Processor Core {0}
+40	v	Intel(R) Overclocking TVB Temperature cutoff for {0} Active Cores
+41	v	Library {0} requires the parameter {1} to be a value type of {2}. A null value was passed.
+42	v	Library {0} requires the parameter {1} to be defined
+43	v	Library {0} requires the parameter {1} to be of type {2}. The type passed was {3}
+44	v	Line {0} does not match the header {1}
+45	v	Max Turbo for {0} Cores
+46	v	Mc{0}Ch{1} {2}
+47	v	PowerManagementEvent Received - {0}
+48	v	Privilege Name '{0}' is invalid.
+49	v	Processor Core {0} Fused Ratio
+50	v	Processor Core {0} Fused Voltage
+51	v	Processor Core {0} Ratio Limit
+52	v	Processor Core {0} TVB Ratio offset
+53	v	Processor Core {0} TVB Temperature cutoff
+54	v	Processor Core {0} Voltage Mode
+55	v	Processor Core {0} Voltage Offset
+56	v	Processor Core {0} Voltage Offset Floor
+57	v	Processor Core {0} Voltage Override
+58	v	Processor Core {0} Voltage Override Floor
+59	v	SELECT * FROM Win32_ProcessStartTrace WITHIN 0.250 WHERE {0}
+60	v	SELECT * FROM Win32_ProcessStopTrace WITHIN 0.250 WHERE {0}
+61	v	Slot{0}Profile{1}-{2}
+62	v	TVB Ratio offset for {0} Active Cores
+63	v	TVB Temperature cutoff for {0} Active Cores
+64	v	Unexpected error encountered opening driver handle for {0}
+65	v	Unity initialization against library {0} failed.
+66	v	Validating arguments for library init call for {0}
+67	v	VF Point {0} Ratio
+68	v	XMP1 Broadcast {0}
+69	v	XMP1 {0} for Channel:{1} 
+70	v	{0} for Channel:{1} 
+71	v	{0} Version {1}
+72	v	{0}.IMMEDIATE.{1}.log
+73	v	{0}.{1}.log

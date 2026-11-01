@@ -1,0 +1,38 @@
+0	v	* voltage offsets may be adjusted internally to maintain monotonic behavior
+1	v	Active Cores are grouped in sets that correlate to a given frequency ratio multiplier. As the number of active cores goes up the frequency gets stepped down to avoid thermal throttling. The active core count that determines when the ratio step down occurs can be adjusted using the arrows or editing the input value in the lower or upper range. If the ratio of a group is changed to match the ratio of another group those groups will be joined together along with all groups inbetween.
+2	v	Automatic Overclock is a simple one click method to optimize your processor. It changes the Package/Per-Core Ratio Multipliers, Turbo Boost Power Max, Turbo Boost Short Power Max, and Processor Core/Cache IccMax. You will not be able to use other tuning controls when in this automatic mode.
+3	v	Click on the link to learn more about Overclocking and XTU.
+4	v	Core Voltage Controls
+5	v	Evaluate the performance of the current system configuration by clicking the Run Benchmark button.
+6	v	Evaluate the performance of the current system configuration. Try running a benchmark before and after activating Automatic Overclock to see the performance benefits.
+7	v	Evaluate the performance of the current system configuration. Try running a benchmark before and after activating Intel® Speed Optimizer 2.0 to see the performance benefits.
+8	v	How do I overclock with it?
+9	v	Improve the system performance by overclocking the Processor Core and Cache. For best practice, it is recommended to apply small steps in ratio adjustment to a single component first and then run Step3 to verify the change. If Step 3 reports a good score, you can continue with another adjustment. You can run this cycle again and again to get the best performance enhancement. At any time, you can save the active profile to a file and reload it back to the system using Profiles menu.
+10	v	Intel Extreme Tuning Utility is a state-of-the-art overclocking solution for Intel IA-based platforms. It is a comprehensive set of tools to tune, test and monitor your system. Click on the link to learn more about 
+11	v	Intel may collect information about how you use your system and software to provide you the best products, services and experiences possible. The information collected is not used to identify or contact you. You can change this setting at any time in the Advanced tab in Settings dialog.
+12	v	Intel® AI Overclocking
+13	v	Intel® Extreme Tuning Utility
+14	v	Intel® Speed Optimizer 2.0
+15	v	Learn about tuning XMP here.
+16	v	Learn how to use this feature here.
+17	v	Learn more about it here.
+18	v	On some platforms and configurations, certain frequency points cannot be characterized and will not appear on the graph. Those Point Voltage Offsets controls will be listed here, where they can be configured and may affect voltage points that are scanned.&#x0a;&#x0a;Frequencies above certain thresholds cannot be scanned due to the instability those frequencies may cause. Any Point Voltage Offset controls above that frequency will be listed here for tuning as they can still affect voltage points that are scanned.
+19	v	Out Of Range Point Voltage Offsets
+20	v	Revert will return your tuning settings to system defaults.
+21	v	See the improved performance as the result of overclocking. You can compare the benchmark score with others online too.
+22	v	Selected Point Voltage Offset
+23	v	The information collected may be shared with authorized business partners who are required to keep this information confidential and only use it for the purposes described above. 
+24	v	The information collected may include your device manufacturer, CPU model, memory and display configuration, OS version, software version, region and language settings, regional location and time zone, device and software usage (e.g. number of times used, duration of use, etc.), feature usage, along with a randomly generated unique identifier (GUID) that is stored on your device. This information is used to help Intel understand how well our products perform over time, to determine how useful they are, to detect issues and to identify future product improvements. The information collected does not include the actual content you create or view and will not be used to identify or contact you.
+25	v	The Intel Product Improvement Program utilizes reasonable organizational, technical and administrative measures to protect the information collected against unauthorized or unlawful access, alteration, disclosure or destruction.  You can access more information about Intel's privacy practices online at
+26	v	The platform does not support overclocking. Overclocking is available on Intel K- and X-series Processors.
+27	v	The platform supports overclocking for Core, Ring/cache, and Processor Graphics.
+28	v	These changes are added on top of the Core Voltage and Core Voltage Offset settings. Update the Voltage-Frequency Curve by modifying offsets to the voltage at frequency points provided, or the entire curve, and clicking Apply. &#x0a;&#x0a;The Selected Point Voltage Offset knob controls the voltage offset at selected frequency points.&#x0a;&#x0a;Note: Voltage offsets may be adjusted internally to maintain monotonic behavior. Please refer to the help document to get detailed information on VF Curve, monotonic behavior of VF Points and how to use the controls on this page.
+29	v	These controls set the voltage and voltage offset for the entire curve. In static mode, Per Point Voltage Offsets are ignored.
+30	v	To get increased system performance, you can modify the performance core voltage offsets below. However, you may experience system instability during the process. System will be restored to the functional state upon reboot. With changing workloads, the CPU frequency and voltage also change.&#x0a;&#x0a;This page provides knobs for tuning the Performance Core Voltage offsets at specific Frequencies, as well as the entire VF Curve.
+31	v	To improve system performance, you can increase the ratio for each component. However, you may experience system instability during the overclocking process. System will be restored to a functional state on reboot.
+32	v	To overclock your system, it is recommended to increment core ratio and voltage by small steps, apply the changes, then ensure system stability. You can do this cycle multiple times to get the best stable performance. To overclock other components (memory, cache, and others) or individual core behavior, switch to Advanced View.
+33	v	VF Curve for Performance Cores
+34	v	Visualize the default as well as applied Voltage-Frequency Curve of the performance cores by clicking the Scan Default VF Curve button or the Scan Applied VF Curve button.&#x0a;&#x0a;The Default profile needs to be active to scan the Default VF Curve.&#x0a;&#x0a;Please scan the default VF Curve before scanning the applied VF Curve.
+35	v	We invite you to join the Intel® Product Improvement Program
+36	v	Welcome to Intel Extreme Tuning Utility
+37	v	When the VF Curve has been plotted on the graph, select a point to activate a tuning control for the voltage offset of that point. You can drag-and-drop that point on the graph or use the tuning control to update the voltage offset.

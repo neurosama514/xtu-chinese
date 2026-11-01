@@ -1,0 +1,89 @@
+0	v	 at {0:g}
+1	v	 at {0:t}
+2	v	Attempted to get active core ratio for index {0} but its control could not be found.
+3	v	Attempted to propose a value while an operation ({0}) was running.
+4	v	Attempted to propose values while an operation ({0}) was running.
+5	v	control is not in available controls: {0}
+6	v	Controls found for {0}, adding drive composite control 
+7	v	Cores {0}-{1}
+8	v	Could not find control for {0}-Core {1}
+9	v	Created a mutex for global instance {0} globalInstance ? {1}
+10	v	Created a mutex for instance {0} firstInstance ? {1}
+11	v	DAP_CATEGORY_EXPANDED:{0}
+12	v	DapConfig:{0}
+13	v	DapDown:{0}
+14	v	DapName:{0}
+15	v	DapUp:{0}
+16	v	Discard value for [{0}]
+17	v	Error adding active core bucket: {0}
+18	v	Exception in VFCurveManager RestoreActiveProfile : {0}
+19	v	Exception occurred getting trend state for id: {0}. {1}
+20	v	Failed to apply profile. Value [{0}] of [{1}] was out of bounds.
+21	v	Failed to Delete Monitor Log Location : {0}
+22	v	Failed to find voltage offset value for [{0}]
+23	v	Failed to Open Log Location : {0}
+24	v	Failed to Open Monitor Log Location : {0}
+25	v	HandleScanResults() changeCount is still {0} after 2+ seconds
+26	v	Interface Levels - Client : {0}, Service : {1}
+27	v	Lower Bounds text has changed to {0} a difference of {1}
+28	v	MonitorConfig:{0}
+29	v	MonitorDown:{0}
+30	v	MonitorName:{0}
+31	v	MonitorUp:{0}
+32	v	MonitorValue:{0}
+33	v	MonitorView width {0}
+34	v	Navigation:{0}:{1}
+35	v	No control found for Id [{0}]
+36	v	OperationNotifier: Finished operation {0}:{1} Success: {2} in {3:F0}ms.
+37	v	OperationNotifier: Operation Started: {0}:{1}
+38	v	PROFILE_MANAGER_ORDER:{0}
+39	v	ProfileButton:{0}
+40	v	Release notes URL has invalid host name - {0}
+41	v	Release notes URL resource path too long - {0}
+42	v	SetPowerCurrentUnlimited restults [{0}]
+43	v	Slot {0} Profile {1}
+44	v	SystemInfo:{0}
+45	v	Time to UpdateProposedProfile: {0}ms.
+46	v	TrendColor:{0}
+47	v	TrendConfig:{0}
+48	v	TrendDown:{0}
+49	v	TrendName:{0}
+50	v	TrendUp:{0}
+51	v	Tried to get active core ratio control {0} for index {1} but failed.
+52	v	Tried to get tvb ratio control {0} for index {1} but failed.
+53	v	Tried to get tvb temp control {0} for index {1} but failed.
+54	v	TuningCombo:{0}
+55	v	TuningDecrement:{0}
+56	v	TuningDiscard:{0}
+57	v	TuningIncrement:{0}
+58	v	TuningInfo:{0}
+59	v	TuningProfile:{0}
+60	v	TuningRestart:{0}
+61	v	TuningSlider:{0}
+62	v	TuningSlider:{0}:HighSlider
+63	v	TuningSlider:{0}:LowSlider
+64	v	TuningSlider:{0}:Thumb
+65	v	TuningUndervolt:{0}
+66	v	Unable to set information.  Error: {0}
+67	v	Unhandled AI Assist telemetry event [{0}]
+68	v	Unhandled view in ChangeView: {0}
+69	v	Unknown XmpControl [{0}] passed to XmpControlToXmpControlGroup.
+70	v	UPP: {0} does not support{1}, adding it to supported values.
+71	v	Upper Bounds text has changed to {0} a difference of {1}
+72	v	Value is greater than maximum value {0}
+73	v	Value is less than minumum value {0}
+74	v	VF Curve could not find a minimum programmable ratio: setting to first ratio {0}.
+75	v	VF Curve Scan: Could not run Stress Test for VF Point Ratio {0}, using current Voltage
+76	v	VF Curve Scan: Could not set Core Ratios to {0}, skipping Voltage scan at this VF Point
+77	v	VF Curve Scan: ratio {0} is out of range
+78	v	VF Curve setting minimum programable ratio point to {0}x
+79	v	{0} days, 
+80	v	{0} for {1} Active {2} Core
+81	v	{0} for {1}-{2} Active {3} Cores
+82	v	{0} hours, 
+83	v	{0} minutes, {1} seconds.
+84	v	{0} started at {1}.
+85	v	{0}CorePerCoreButton:{1}
+86	v	{0}CoreRatioDecrement:{1}
+87	v	{0}CoreRatioIncrement:{1}
+88	v	{0}CoreUndervoltProtection:{1}

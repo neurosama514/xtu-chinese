@@ -1,0 +1,190 @@
+0	Description	Amount of energy used by the Core Package.
+1	Description	Amount of energy used by the CPU Package.
+2	Description	Amount of energy used by the Graphics Core(s).
+3	Description	Battery Voltage Monitor.
+4	Description	CPU IO Voltage Monitor.
+5	Description	CPU PLL Voltage Monitor.
+6	Description	MCH Voltage Monitor.
+7	Description	PCH Voltage Monitor.
+8	Description	PMAX Throttling: Having a very low VccIn could be the cause.
+9	Description	Power Supplie's Inlet Voltage Monitor.
+10	Description	Prevent processor from running at high voltage for a long time
+11	Description	Processor's Core Voltage.
+12	Description	System Agent Voltage Monitor.
+13	Description	The +1.5V rail monitor.
+14	Description	The +1.8V rail monitor.
+15	Description	The +12V rail monitor.
+16	Description	The +2.5V rail monitor.
+17	Description	The +3.3V rail monitor.
+18	Description	The +3.3V standby rail monitor.
+19	Description	The +5V backup rail monitor.
+20	Description	The +5V rail monitor.
+21	Description	The -12V rail monitor.
+22	Description	The -5V rail monitor.
+23	Description	The ambient temperature of the motherboard.
+24	Description	The ambient temperature of the system.
+25	Description	The amount of system memory currently in use.
+26	Description	The Core Voltage.
+27	Description	The CPU inlet temperature.
+28	Description	The CPU throttles itself to maintain current.
+29	Description	The CPU throttles itself to maintain power.
+30	Description	The CPU throttles itself to maintain temperature.
+31	Description	The current configurable TDP maximum non-turbo ratio.
+32	Description	The currently active turbo boost power max.
+33	Description	The currently active turbo boost short window power max.
+34	Description	The frequency of the EDRAM clock.
+35	Description	The frequency of the fastest Efficient core currently executing.
+36	Description	The frequency of the fastest Performance core currently executing.
+37	Description	The frequency of the interface that connects the processor’s cache to its cores.
+38	Description	The frequency of the processor graphics cores.
+39	Description	The frequency of the processor graphics media.
+40	Description	The frequency of the reference clock.
+41	Description	The laptop skin temperature.
+42	Description	The motherboard power delivery (VR) is too hot to maintain the current performance.
+43	Description	The number of Efficient Cores that are currently active.
+44	Description	The number of Performance Cores that are currently active.
+45	Description	The percentage of CPU Thread {0}'s processing power currently being used.
+46	Description	The percentage of the CPU's processing power currently being used.
+47	Description	The positive 12 volt ATX CPU voltage rail monitor.
+48	Description	The positive 12 volt ATX power rail monitor.
+49	Description	The processor's cache voltage.
+50	Description	The speed of an unidentifiable fan.
+51	Description	The speed of the auxiliary fan.
+52	Description	The speed of the battery fan.
+53	Description	The speed of the chassis fan.
+54	Description	The speed of the chassis inlet fan.
+55	Description	The speed of the chassis outlet fan.
+56	Description	The speed of the CPU fan.
+57	Description	The speed of the Graphics Processing Unit fan.
+58	Description	The speed of the Hard Disk Drive fan.
+59	Description	The speed of the IOH cooling fan.
+60	Description	The speed of the Memory Controller Hub fan.
+61	Description	The speed of the memory cooling fan.
+62	Description	The speed of the memory.
+63	Description	The speed of the Platform Controller Hub fan.
+64	Description	The speed of the Power Supply Unit fan.
+65	Description	The speed of the Power Supply Unit inlet fan.
+66	Description	The speed of the Power Supply Unit outlet fan.
+67	Description	The speed of the system fan.
+68	Description	The speed of the Voltage Regulator fan.
+69	Description	The system inlet temperature.
+70	Description	The system outlet temperature.
+71	Description	The system power supply inlet temperature.
+72	Description	The system power supply outlet temperature.
+73	Description	The system power supply temperature.
+74	Description	The temperature measured on the CPU Die.
+75	Description	The temperature measured on the Package.
+76	Description	The temperature of the battery unit.
+77	Description	The temperature of the graphics processor unit (GPU).
+78	Description	The temperature of the hard drive.
+79	Description	The temperature of the ICH.
+80	Description	The temperature of the IOH.
+81	Description	The temperature of the MCH.
+82	Description	The temperature of the memory.
+83	Description	The temperature of the optical disk drive.
+84	Description	The temperature of the PCH.
+85	Description	The temperature of the PCMCIA slot.
+86	Description	The temperature of the power supply hot-spot.
+87	Description	The temperature of the processor graphics cores.
+88	Description	The temperature of the voltage regulator.
+89	Description	The total number of cores that are currently active.
+90	Description	The voltage of memory channels A and B.
+91	Description	The voltage of memory channels C and D.
+92	Description	The voltage of the processor graphics cores.
+93	Description	Voltage measured at the SDRAM.
+94	Description	VR TDC Clipping.
+95	Name	+1.5V Rail
+96	Name	+1.8V Rail
+97	Name	+12V ATX CPU Voltage
+98	Name	+12V ATX Voltage
+99	Name	+12V Rail
+100	Name	+2.5V Rail
+101	Name	+3.3V Rail
+102	Name	+3.3V Standby Rail
+103	Name	+5V Backup Rail
+104	Name	+5V Rail
+105	Name	-12V Rail
+106	Name	-5V Rail
+107	Name	Active Core Count
+108	Name	Active E-Core Count
+109	Name	Active P-Core Count
+110	Name	Ambient Motherboard Temperature
+111	Name	Ambient System Temperature
+112	Name	Auxiliary Fan Speed
+113	Name	Battery Fan Speed
+114	Name	Battery Temperature
+115	Name	Battery Voltage
+116	Name	Cache Voltage
+117	Name	Chassis Fan Speed
+118	Name	Chassis Inlet Fan Speed
+119	Name	Chassis Outlet Fan Speed
+120	Name	Config TDP Ratio
+121	Name	Core TDP
+122	Name	Core Voltage
+123	Name	CPU Die Temperature
+124	Name	CPU Fan Speed
+125	Name	CPU Inlet Temperature
+126	Name	CPU IO Voltage
+127	Name	CPU PLL Voltage
+128	Name	CPU Thread {0} Utilization
+129	Name	CPU Utilization
+130	Name	Current/EDP Limit Throttling
+131	Name	EDRAM Frequency
+132	Name	GPU Fan Speed
+133	Name	Graphics Processor Unit (GPU) Temperature
+134	Name	Graphics TDP
+135	Name	Graphics Temperature
+136	Name	Graphics Voltage
+137	Name	Hard Disk Drive Fan Speed
+138	Name	Hard Drive Temperature
+139	Name	ICH Temperature
+140	Name	IOH Cooling Fan Speed
+141	Name	IOH Temperature
+142	Name	Max E-Core Frequency
+143	Name	Max P-Core Frequency
+144	Name	MCH Fan Speed
+145	Name	MCH Temperature
+146	Name	MCH Voltage
+147	Name	Memory Channel A/B Voltage
+148	Name	Memory Channel C/D Voltage
+149	Name	Memory Cooling Fan Speed
+150	Name	Memory Speed
+151	Name	Memory Temperature
+152	Name	Memory Utilization
+153	Name	Motherboard VR Thermal Throttling
+154	Name	Optical Disk Drive Temperature
+155	Name	Package TDP
+156	Name	Package Temperature
+157	Name	PCH Fan Speed
+158	Name	PCH Temperature
+159	Name	PCH Voltage
+160	Name	PCMCIA Slot Temperature
+161	Name	PMAX Throttling
+162	Name	Power Limit Throttling
+163	Name	Power Supply Hot-Spot Temperature
+164	Name	Power Supply Inlet Temperature
+165	Name	Power Supply Outlet Temperature
+166	Name	Power Supply Temperature
+167	Name	Processor Cache Frequency
+168	Name	Processor Core Voltage
+169	Name	Processor Graphics Frequency
+170	Name	Processor Graphics Media
+171	Name	PSU Fan Speed
+172	Name	PSU Inlet Fan Speed
+173	Name	PSU Inlet Voltage
+174	Name	PSU Outlet Fan Speed
+175	Name	Reference Clock Frequency
+176	Name	SDRAM Voltage
+177	Name	Skin Temperature
+178	Name	System Agent Voltage
+179	Name	System Fan Speed
+180	Name	System Inlet Temperature
+181	Name	System Outlet Temperature
+182	Name	Thermal Throttling
+183	Name	Turbo Boost Power Max
+184	Name	Turbo Boost Short Power Max
+185	Name	Unknown Fan Speed
+186	Name	Vmax Stress Throttling
+187	Name	Voltage Regulator Temperature
+188	Name	VR Fan Speed
+189	Name	VR TDC Clipping

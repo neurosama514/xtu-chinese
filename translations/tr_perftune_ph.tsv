@@ -1,0 +1,89 @@
+0	 在 {0:g} 时
+1	 在 {0:t} 时
+2	尝试获取索引 {0} 的活动核心倍频，但找不到其控件。
+3	在操作（{0}）运行期间尝试提议值。
+4	在操作（{0}）运行期间尝试提议多个值。
+5	控件不在可用控件列表中：{0}
+6	已找到 {0} 的控件，正在添加复合驱动控件 
+7	核心 {0}-{1}
+8	找不到 {0} 核 {1} 的控件
+9	已为全局实例 {0} 创建互斥量，globalInstance ? {1}
+10	已为实例 {0} 创建互斥量，firstInstance ? {1}
+11	DAP_CATEGORY_EXPANDED:{0}
+12	DapConfig:{0}
+13	DapDown:{0}
+14	DapName:{0}
+15	DapUp:{0}
+16	放弃 [{0}] 的值
+17	添加活动核心分组时出错：{0}
+18	VFCurveManager RestoreActiveProfile 中出现异常：{0}
+19	获取 id 为 {0} 的趋势状态时发生异常。{1}
+20	应用配置文件失败。[{1}] 的值 [{0}] 超出范围。
+21	删除监控日志位置失败：{0}
+22	找不到 [{0}] 的电压偏移值
+23	打开日志位置失败：{0}
+24	打开监控日志位置失败：{0}
+25	HandleScanResults() 在 2 秒多之后 changeCount 仍为 {0}
+26	接口级别 - 客户端：{0}，服务：{1}
+27	下限文本已更改为 {0}，差值为 {1}
+28	MonitorConfig:{0}
+29	MonitorDown:{0}
+30	MonitorName:{0}
+31	MonitorUp:{0}
+32	MonitorValue:{0}
+33	MonitorView 宽度 {0}
+34	Navigation:{0}:{1}
+35	找不到 Id 为 [{0}] 的控件
+36	OperationNotifier：操作 {0}:{1} 已完成，成功：{2}，耗时 {3:F0}ms。
+37	OperationNotifier：操作已开始：{0}:{1}
+38	PROFILE_MANAGER_ORDER:{0}
+39	ProfileButton:{0}
+40	发行说明 URL 的主机名无效 - {0}
+41	发行说明 URL 的资源路径过长 - {0}
+42	SetPowerCurrentUnlimited 结果 [{0}]
+43	槽位 {0} 配置文件 {1}
+44	SystemInfo:{0}
+45	UpdateProposedProfile 耗时：{0}ms。
+46	TrendColor:{0}
+47	TrendConfig:{0}
+48	TrendDown:{0}
+49	TrendName:{0}
+50	TrendUp:{0}
+51	尝试获取索引 {1} 的活动核心倍频控件 {0}，但失败。
+52	尝试获取索引 {1} 的 TVB 倍频控件 {0}，但失败。
+53	尝试获取索引 {1} 的 TVB 温度控件 {0}，但失败。
+54	TuningCombo:{0}
+55	TuningDecrement:{0}
+56	TuningDiscard:{0}
+57	TuningIncrement:{0}
+58	TuningInfo:{0}
+59	TuningProfile:{0}
+60	TuningRestart:{0}
+61	TuningSlider:{0}
+62	TuningSlider:{0}:HighSlider
+63	TuningSlider:{0}:LowSlider
+64	TuningSlider:{0}:Thumb
+65	TuningUndervolt:{0}
+66	无法设置信息。错误：{0}
+67	未处理的 AI Assist 遥测事件 [{0}]
+68	ChangeView 中有未处理的视图：{0}
+69	未知的 XmpControl [{0}] 被传递给 XmpControlToXmpControlGroup。
+70	UPP：{0} 不支持{1}，将其添加到支持的值中。
+71	上限文本已更改为 {0}，差值为 {1}
+72	值大于最大值 {0}
+73	值小于最小值 {0}
+74	VF 曲线找不到可编程的最小倍频：将设置为第一个倍频 {0}。
+75	VF 曲线扫描：无法对 VF 点倍频 {0} 运行压力测试，正在使用当前电压
+76	VF 曲线扫描：无法将核心倍频设置为 {0}，跳过此 VF 点的电压扫描
+77	VF 曲线扫描：倍频 {0} 超出范围
+78	VF 曲线将最小可编程倍频点设置为 {0}x
+79	{0} 天， 
+80	{0}（{1} 个活动 {2} 核）
+81	{0}（{1}-{2} 个活动 {3} 核）
+82	{0} 小时， 
+83	{0} 分钟 {1} 秒。
+84	{0} 已于 {1} 启动。
+85	{0}CorePerCoreButton:{1}
+86	{0}CoreRatioDecrement:{1}
+87	{0}CoreRatioIncrement:{1}
+88	{0}CoreUndervoltProtection:{1}
