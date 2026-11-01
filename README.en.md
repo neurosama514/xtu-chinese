@@ -1,5 +1,10 @@
 # XTU Chinese Localization Toolkit (xtu-chinese)
 
+[![CI](https://github.com/neurosama514/xtu-chinese/actions/workflows/ci.yml/badge.svg)](https://github.com/neurosama514/xtu-chinese/actions/workflows/ci.yml)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/neurosama514/xtu-chinese)](https://github.com/neurosama514/xtu-chinese/releases)
+
+
 [中文说明](README.md) ・ **English**
 
 Open-source toolkit that localizes **Intel® Extreme Tuning Utility (XTU)** into Simplified Chinese,
