@@ -1,4 +1,4 @@
-param(
+﻿param(
     [string]$XtuDir = "C:\Program Files\Intel\Intel(R) Extreme Tuning Utility",
     [string]$Work = ""
 )
