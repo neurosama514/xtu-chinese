@@ -28,8 +28,8 @@ jobs:
         shell: powershell
         run: |
           .\build.ps1 -Stage tools
-          if (-not (Test-Path .\build\XtuBaml.exe)) { throw "XtuBaml.exe 未生成" }
-          if (-not (Test-Path .\build\XtuPatch.exe)) { throw "XtuPatch.exe 未生成" }
+          if (-not (Test-Path .\build\XtuBaml.exe)) { throw "XtuBaml.exe was not built" }
+          if (-not (Test-Path .\build\XtuPatch.exe)) { throw "XtuPatch.exe was not built" }
       - uses: actions/upload-artifact@v4
         with:
           name: tools
