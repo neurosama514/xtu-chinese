@@ -1,4 +1,4 @@
-param(
+﻿param(
     [ValidateSet("all", "tools", "extract", "generate", "patch", "restore", "installer")]
     [string]$Stage = "all",
     [string]$XtuDir = "C:\Program Files\Intel\Intel(R) Extreme Tuning Utility",
@@ -25,7 +25,7 @@ function Ensure-Cecil {
     Ensure-Dir $lib
     $dll = Join-Path $lib "Mono.Cecil.dll"
     if (Test-Path $dll) { return $dll }
-    Write-Output "下载 Mono.Cecil ..."
+    Write-Host "下载 Mono.Cecil ..."
     $nupkg = Join-Path $lib "cecil.zip"
     Invoke-WebRequest -Uri "https://www.nuget.org/api/v2/package/Mono.Cecil/0.11.5" -OutFile $nupkg -UseBasicParsing
     Expand-Archive -Path $nupkg -DestinationPath (Join-Path $lib "cecil") -Force
