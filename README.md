@@ -1,5 +1,10 @@
 # XTU 安装与汉化工具（xtu-chinese）
 
+[![CI](https://github.com/neurosama514/xtu-chinese/actions/workflows/ci.yml/badge.svg)](https://github.com/neurosama514/xtu-chinese/actions/workflows/ci.yml)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/neurosama514/xtu-chinese)](https://github.com/neurosama514/xtu-chinese/releases)
+
+
 一键安装 **Intel® Extreme Tuning Utility（XTU）中文版** 的开源工具链与翻译数据：
 自带官方安装包引导 + 全量界面汉化 + 一键还原。
 
