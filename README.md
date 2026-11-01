@@ -8,6 +8,8 @@
 
 ![主界面](screenshots/main.png)
 
+[English README](README.en.md) ・ [下载 Releases](../../releases)
+
 | 压力测试 | 系统信息 | 紧凑视图 | 安装包 |
 |---|---|---|---|
 | ![](screenshots/stress.png) | ![](screenshots/sysinfo.png) | ![](screenshots/compact.png) | ![](screenshots/installer.png) |
